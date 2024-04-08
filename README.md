@@ -1,3 +1,9 @@
 # Use of a Structured Knowledge Base Enhances Metadata Curation by Large Language Models
 The repository involves the code and data for enhancing BioSample records using GPT-4.
-Inout samples from BioSample are transformed into metadata guideline compliant versions using GPT-4 and templates from CEDAR.
+Input samples from BioSample are transformed into metadata guideline compliant versions using GPT-4 and templates from CEDAR.
+
+<img width="880" alt="image" src="https://github.com/musen-lab/BioSampleGPTCorrection/assets/9361849/e09227d1-8faa-48c0-a00a-4630c82c8bfc">
+
+```
+Cite with arxiv link
+```
