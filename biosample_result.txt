@@ -1,0 +1,3965 @@
+1: IFNg-Mtb-MAFB-2
+Identifiers: BioSample: SAMD00491601; SRA: DRS259796
+Organism: Homo sapiens
+Attributes:
+    /sample name="IFNg-Mtb-MAFB-2"
+    /age="missing"
+    /biomaterial provider="RIKEN_BRC"
+    /cell line="THP-1"
+    /isolate="missing"
+    /sex="missing"
+    /tissue="monocyte"
+    /collection date="missing"
+    /geographic location="missing"
+Description:
+THP-1 cells treated with MAFB siRNA infected with Mycobacterium tuberculosis and stimulated with IFN-g
+Accession: SAMD00491601	ID: 31317280
+
+2: IFNg-Mtb-MAFB-1
+Identifiers: BioSample: SAMD00491600; SRA: DRS259795
+Organism: Homo sapiens
+Attributes:
+    /sample name="IFNg-Mtb-MAFB-1"
+    /age="missing"
+    /biomaterial provider="RIKEN_BRC"
+    /cell line="THP-1"
+    /isolate="missing"
+    /sex="missing"
+    /tissue="monocyte"
+    /collection date="missing"
+    /geographic location="missing"
+Description:
+THP-1 cells treated with MAFB siRNA infected with Mycobacterium tuberculosis and stimulated with IFN-g
+Accession: SAMD00491600	ID: 31317279
+
+3: IFNg-Mtb-2
+Identifiers: BioSample: SAMD00491599; SRA: DRS259794
+Organism: Homo sapiens
+Attributes:
+    /sample name="IFNg-Mtb-2"
+    /age="missing"
+    /biomaterial provider="RIKEN_BRC"
+    /cell line="THP-1"
+    /isolate="missing"
+    /sex="missing"
+    /tissue="monocyte"
+    /collection date="missing"
+    /geographic location="missing"
+Description:
+THP-1 cells treated with control siRNA infected with Mycobacterium tuberculosis and stimulated with IFN-g
+Accession: SAMD00491599	ID: 31317278
+
+4: IFNg-Mtb-1
+Identifiers: BioSample: SAMD00491598; SRA: DRS259793
+Organism: Homo sapiens
+Attributes:
+    /sample name="IFNg-Mtb-1"
+    /age="missing"
+    /biomaterial provider="RIKEN_BRC"
+    /cell line="THP-1"
+    /isolate="missing"
+    /sex="missing"
+    /tissue="monocyte"
+    /collection date="missing"
+    /geographic location="missing"
+Description:
+THP-1 cells treated with control siRNA infected with Mycobacterium tuberculosis and stimulated with IFN-g
+Accession: SAMD00491598	ID: 31317277
+
+5: MAFB-Mtb-2
+Identifiers: BioSample: SAMD00491597; SRA: DRS259792
+Organism: Homo sapiens
+Attributes:
+    /sample name="MAFB-Mtb-2"
+    /age="missing"
+    /biomaterial provider="RIKEN_BRC"
+    /cell line="THP-1"
+    /isolate="missing"
+    /sex="missing"
+    /tissue="monocyte"
+    /collection date="missing"
+    /geographic location="missing"
+Description:
+THP-1 cells treated with MAFB siRNA infected with Mycobacterium tuberculosis
+Accession: SAMD00491597	ID: 31317276
+
+6: MAFB-Mtb-1
+Identifiers: BioSample: SAMD00491596; SRA: DRS259791
+Organism: Homo sapiens
+Attributes:
+    /sample name="MAFB-Mtb-1"
+    /age="missing"
+    /biomaterial provider="RIKEN_BRC"
+    /cell line="THP-1"
+    /isolate="missing"
+    /sex="missing"
+    /tissue="monocyte"
+    /collection date="missing"
+    /geographic location="missing"
+Description:
+THP-1 cells treated with MAFB siRNA infected with Mycobacterium tuberculosis
+Accession: SAMD00491596	ID: 31317275
+
+7: Mtb-2
+Identifiers: BioSample: SAMD00491595; SRA: DRS259790
+Organism: Homo sapiens
+Attributes:
+    /sample name="Mtb-2"
+    /age="missing"
+    /biomaterial provider="RIKEN_BRC"
+    /cell line="THP-1"
+    /isolate="missing"
+    /sex="missing"
+    /tissue="monocyte"
+    /collection date="missing"
+    /geographic location="missing"
+Description:
+THP-1 cells treated with control siRNA infected with Mycobacterium tuberculosis
+Accession: SAMD00491595	ID: 31317274
+
+8: Mtb-1
+Identifiers: BioSample: SAMD00491594; SRA: DRS259789
+Organism: Homo sapiens
+Attributes:
+    /sample name="Mtb-1"
+    /age="missing"
+    /biomaterial provider="RIKEN_BRC"
+    /cell line="THP-1"
+    /isolate="missing"
+    /sex="missing"
+    /tissue="monocyte"
+    /collection date="missing"
+    /geographic location="missing"
+Description:
+THP-1 cells treated with control siRNA infected with Mycobacterium tuberculosis
+Accession: SAMD00491594	ID: 31317273
+
+9: Control-2
+Identifiers: BioSample: SAMD00491593; SRA: DRS259788
+Organism: Homo sapiens
+Attributes:
+    /sample name="Control-2"
+    /age="missing"
+    /biomaterial provider="RIKEN_BRC"
+    /cell line="THP-1"
+    /isolate="missing"
+    /sex="missing"
+    /tissue="monocyte"
+    /collection date="missing"
+    /geographic location="missing"
+Description:
+THP-1 cells treated with control siRNA
+Accession: SAMD00491593	ID: 31317272
+
+10: Control-1
+Identifiers: BioSample: SAMD00491592; SRA: DRS259787
+Organism: Homo sapiens
+Attributes:
+    /sample name="Control-1"
+    /age="missing"
+    /biomaterial provider="RIKEN_BRC"
+    /cell line="THP-1"
+    /isolate="missing"
+    /sex="missing"
+    /tissue="monocyte"
+    /collection date="missing"
+    /geographic location="missing"
+Description:
+THP-1 cells treated with control siRNA
+Accession: SAMD00491592	ID: 31317271
+
+11: Whole blood from retreated TB patient R211_0
+Identifiers: BioSample: SAMD00611458; SRA: DRS312546
+Organism: Homo sapiens
+Attributes:
+    /sample name="R211_0"
+    /age="40"
+    /biomaterial provider="Hanoi Lung Hospital"
+    /disease="pulmonary tuberculosis"
+    /isolate="TB patient R211_0"
+    /sex="male"
+    /tissue="Whole blood"
+    /collection date="missing"
+    /geographic location="missing"
+Accession: SAMD00611458	ID: 35819985
+
+12: Whole blood from retreated TB patient R190_0
+Identifiers: BioSample: SAMD00611457; SRA: DRS312545
+Organism: Homo sapiens
+Attributes:
+    /sample name="R190_0"
+    /age="23"
+    /biomaterial provider="Hanoi Lung Hospital"
+    /disease="pulmonary tuberculosis"
+    /isolate="TB patient R190_0"
+    /sex="female"
+    /tissue="Whole blood"
+    /collection date="missing"
+    /geographic location="missing"
+Accession: SAMD00611457	ID: 35819984
+
+13: Whole blood from retreated TB patient R186_0
+Identifiers: BioSample: SAMD00611456; SRA: DRS312544
+Organism: Homo sapiens
+Attributes:
+    /sample name="R186_0"
+    /age="29"
+    /biomaterial provider="Hanoi Lung Hospital"
+    /disease="pulmonary tuberculosis"
+    /isolate="TB patient R186_0"
+    /sex="male"
+    /tissue="Whole blood"
+    /collection date="missing"
+    /geographic location="missing"
+Accession: SAMD00611456	ID: 35819983
+
+14: Whole blood from retreated TB patient R150_0
+Identifiers: BioSample: SAMD00611455; SRA: DRS312543
+Organism: Homo sapiens
+Attributes:
+    /sample name="R150_0"
+    /age="51"
+    /biomaterial provider="Hanoi Lung Hospital"
+    /disease="pulmonary tuberculosis"
+    /isolate="TB patient R150_0"
+    /sex="female"
+    /tissue="Whole blood"
+    /collection date="missing"
+    /geographic location="missing"
+Accession: SAMD00611455	ID: 35819982
+
+15: Whole blood from retreated TB patient R136_0
+Identifiers: BioSample: SAMD00611454; SRA: DRS312542
+Organism: Homo sapiens
+Attributes:
+    /sample name="R136_0"
+    /age="50"
+    /biomaterial provider="Hanoi Lung Hospital"
+    /disease="pulmonary tuberculosis"
+    /isolate="TB patient R136_0"
+    /sex="male"
+    /tissue="Whole blood"
+    /collection date="missing"
+    /geographic location="missing"
+Accession: SAMD00611454	ID: 35819981
+
+16: Whole blood from retreated TB patient R105_0
+Identifiers: BioSample: SAMD00611453; SRA: DRS312541
+Organism: Homo sapiens
+Attributes:
+    /sample name="R105_0"
+    /age="41"
+    /biomaterial provider="Hanoi Lung Hospital"
+    /disease="pulmonary tuberculosis"
+    /isolate="TB patient R105_0"
+    /sex="male"
+    /tissue="Whole blood"
+    /collection date="missing"
+    /geographic location="missing"
+Accession: SAMD00611453	ID: 35819980
+
+17: Whole blood from retreated TB patient R080_0
+Identifiers: BioSample: SAMD00611452; SRA: DRS312540
+Organism: Homo sapiens
+Attributes:
+    /sample name="R080_0"
+    /age="28"
+    /biomaterial provider="Hanoi Lung Hospital"
+    /disease="pulmonary tuberculosis"
+    /isolate="TB patient R080_0"
+    /sex="male"
+    /tissue="Whole blood"
+    /collection date="missing"
+    /geographic location="missing"
+Accession: SAMD00611452	ID: 35819979
+
+18: Whole blood from retreated TB patient R059_0
+Identifiers: BioSample: SAMD00611451; SRA: DRS312539
+Organism: Homo sapiens
+Attributes:
+    /sample name="R059_0"
+    /age="49"
+    /biomaterial provider="Hanoi Lung Hospital"
+    /disease="pulmonary tuberculosis"
+    /isolate="TB patient R059_0"
+    /sex="male"
+    /tissue="Whole blood"
+    /collection date="missing"
+    /geographic location="missing"
+Accession: SAMD00611451	ID: 35819978
+
+19: Whole blood from retreated TB patient R056_0
+Identifiers: BioSample: SAMD00611450; SRA: DRS312538
+Organism: Homo sapiens
+Attributes:
+    /sample name="R056_0"
+    /age="22"
+    /biomaterial provider="Hanoi Lung Hospital"
+    /disease="pulmonary tuberculosis"
+    /isolate="TB patient R056_0"
+    /sex="female"
+    /tissue="Whole blood"
+    /collection date="missing"
+    /geographic location="missing"
+Accession: SAMD00611450	ID: 35819977
+
+20: Whole blood from retreated TB patient R040_0
+Identifiers: BioSample: SAMD00611449; SRA: DRS312537
+Organism: Homo sapiens
+Attributes:
+    /sample name="R040_0"
+    /age="53"
+    /biomaterial provider="Hanoi Lung Hospital"
+    /disease="pulmonary tuberculosis"
+    /isolate="TB patient R040_0"
+    /sex="female"
+    /tissue="Whole blood"
+    /collection date="missing"
+    /geographic location="missing"
+Accession: SAMD00611449	ID: 35819976
+
+21: Whole blood from retreated TB patient R019_0
+Identifiers: BioSample: SAMD00611448; SRA: DRS312536
+Organism: Homo sapiens
+Attributes:
+    /sample name="R019_0"
+    /age="49"
+    /biomaterial provider="Hanoi Lung Hospital"
+    /disease="pulmonary tuberculosis"
+    /isolate="TB patient R019_0"
+    /sex="male"
+    /tissue="Whole blood"
+    /collection date="missing"
+    /geographic location="missing"
+Accession: SAMD00611448	ID: 35819975
+
+22: Whole blood from retreated TB patient R007_0
+Identifiers: BioSample: SAMD00611447; SRA: DRS312535
+Organism: Homo sapiens
+Attributes:
+    /sample name="R007_0"
+    /age="48"
+    /biomaterial provider="Hanoi Lung Hospital"
+    /disease="pulmonary tuberculosis"
+    /isolate="TB patient R007_0"
+    /sex="male"
+    /tissue="Whole blood"
+    /collection date="missing"
+    /geographic location="missing"
+Accession: SAMD00611447	ID: 35819974
+
+23: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN21877255; Sample name: DMTB3; SRA: SRS10610292
+Organism: Homo sapiens
+Attributes:
+    /isolate="diabetes mellitus with tuberculosis patient"
+    /age="46"
+    /biomaterial provider="Shenzhen Center for Chronic Disease Control and Prevention"
+    /sex="male"
+    /tissue="PBMC"
+Accession: SAMN21877255	ID: 21877255
+
+24: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN21877254; Sample name: DMTB2; SRA: SRS10610293
+Organism: Homo sapiens
+Attributes:
+    /isolate="diabetes mellitus with tuberculosis patient"
+    /age="54"
+    /biomaterial provider="Shenzhen Center for Chronic Disease Control and Prevention"
+    /sex="male"
+    /tissue="PBMC"
+Accession: SAMN21877254	ID: 21877254
+
+25: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN21877253; Sample name: DMTB1; SRA: SRS10610296
+Organism: Homo sapiens
+Attributes:
+    /isolate="diabetes mellitus with tuberculosis patient"
+    /age="42"
+    /biomaterial provider="Shenzhen Center for Chronic Disease Control and Prevention"
+    /sex="male"
+    /tissue="PBMC"
+Accession: SAMN21877253	ID: 21877253
+
+26: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN21877247; Sample name: TB3; SRA: SRS10610300
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="47"
+    /biomaterial provider="Shenzhen Center for Chronic Disease Control and Prevention"
+    /sex="male"
+    /tissue="PBMC"
+Accession: SAMN21877247	ID: 21877247
+
+27: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN21877246; Sample name: TB2; SRA: SRS10610301
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="43"
+    /biomaterial provider="Shenzhen Center for Chronic Disease Control and Prevention"
+    /sex="male"
+    /tissue="PBMC"
+Accession: SAMN21877246	ID: 21877246
+
+28: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN21877243; Sample name: TB1; SRA: SRS10610302
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="49"
+    /biomaterial provider="Shenzhen Center for Chronic Disease Control and Prevention"
+    /sex="male"
+    /tissue="PBMC"
+Accession: SAMN21877243	ID: 21877243
+
+29: 3.050.0.2
+Identifiers: BioSample: SAMN29843962; Sample name: SAMPL036; SRA: SRS13996276
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="40"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="clinical tuberculosis"
+    /disease stage="clinical tuberculosis"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="36"
+Description:
+PBMC
+Accession: SAMN29843962	ID: 29843962
+
+30: 3.049.0.2
+Identifiers: BioSample: SAMN29843961; Sample name: SAMPL035; SRA: SRS13996275
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="32"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="clinical tuberculosis"
+    /disease stage="clinical tuberculosis"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="35"
+Description:
+PBMC
+Accession: SAMN29843961	ID: 29843961
+
+31: 3.041.0.2
+Identifiers: BioSample: SAMN29843960; Sample name: SAMPL034; SRA: SRS13996274
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="24"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="clinical tuberculosis"
+    /disease stage="clinical tuberculosis"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="34"
+Description:
+PBMC
+Accession: SAMN29843960	ID: 29843960
+
+32: 3.039.0.2
+Identifiers: BioSample: SAMN29843959; Sample name: SAMPL033; SRA: SRS13996273
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="28"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="clinical tuberculosis"
+    /disease stage="clinical tuberculosis"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="33"
+Description:
+PBMC
+Accession: SAMN29843959	ID: 29843959
+
+33: 3.035.0.2
+Identifiers: BioSample: SAMN29843958; Sample name: SAMPL032; SRA: SRS13996271
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="34"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="clinical tuberculosis"
+    /disease stage="clinical tuberculosis"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="32"
+Description:
+PBMC
+Accession: SAMN29843958	ID: 29843958
+
+34: 3.033.0.2
+Identifiers: BioSample: SAMN29843957; Sample name: SAMPL031; SRA: SRS13996272
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="23"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="clinical tuberculosis"
+    /disease stage="clinical tuberculosis"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="31"
+Description:
+PBMC
+Accession: SAMN29843957	ID: 29843957
+
+35: 3.032.0.2
+Identifiers: BioSample: SAMN29843956; Sample name: SAMPL030; SRA: SRS13996270
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="37"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="clinical tuberculosis"
+    /disease stage="clinical tuberculosis"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="30"
+Description:
+PBMC
+Accession: SAMN29843956	ID: 29843956
+
+36: 3.031.0.2
+Identifiers: BioSample: SAMN29843955; Sample name: SAMPL029; SRA: SRS13996268
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="20"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="clinical tuberculosis"
+    /disease stage="clinical tuberculosis"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="29"
+Description:
+PBMC
+Accession: SAMN29843955	ID: 29843955
+
+37: 3.029.0.2
+Identifiers: BioSample: SAMN29843954; Sample name: SAMPL028; SRA: SRS13996267
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="47"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="clinical tuberculosis"
+    /disease stage="clinical tuberculosis"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="28"
+Description:
+PBMC
+Accession: SAMN29843954	ID: 29843954
+
+38: 3.022.0.2
+Identifiers: BioSample: SAMN29843953; Sample name: SAMPL027; SRA: SRS13996266
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="35"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="clinical tuberculosis"
+    /disease stage="clinical tuberculosis"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="27"
+Description:
+PBMC
+Accession: SAMN29843953	ID: 29843953
+
+39: 2.072.4.2
+Identifiers: BioSample: SAMN29843952; Sample name: SAMPL026; SRA: SRS13996264
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="33"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="26"
+Description:
+PBMC
+Accession: SAMN29843952	ID: 29843952
+
+40: 2.062.4.2
+Identifiers: BioSample: SAMN29843951; Sample name: SAMPL025; SRA: SRS13996265
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="42"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="25"
+Description:
+PBMC
+Accession: SAMN29843951	ID: 29843951
+
+41: 2.045.2.2
+Identifiers: BioSample: SAMN29843947; Sample name: SAMPL021; SRA: SRS13996259
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="30"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="21"
+Description:
+PBMC
+Accession: SAMN29843947	ID: 29843947
+
+42: 2.041.4.2
+Identifiers: BioSample: SAMN29843945; Sample name: SAMPL019; SRA: SRS13996257
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="48"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="19"
+Description:
+PBMC
+Accession: SAMN29843945	ID: 29843945
+
+43: 2.040.4.2
+Identifiers: BioSample: SAMN29843944; Sample name: SAMPL018; SRA: SRS13996256
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="25"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="18"
+Description:
+PBMC
+Accession: SAMN29843944	ID: 29843944
+
+44: 2.030.2.2
+Identifiers: BioSample: SAMN29843942; Sample name: SAMPL016; SRA: SRS13996254
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="36"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="16"
+Description:
+PBMC
+Accession: SAMN29843942	ID: 29843942
+
+45: 2.005.6.2
+Identifiers: BioSample: SAMN29843940; Sample name: SAMPL014; SRA: SRS13996252
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="36"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="14"
+Description:
+PBMC
+Accession: SAMN29843940	ID: 29843940
+
+46: 2.004.6.2
+Identifiers: BioSample: SAMN29843939; Sample name: SAMPL013; SRA: SRS13996251
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="26"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="13"
+Description:
+PBMC
+Accession: SAMN29843939	ID: 29843939
+
+47: 1.130.2.2
+Identifiers: BioSample: SAMN29843938; Sample name: SAMPL012; SRA: SRS13996250
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="30"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="12"
+Description:
+PBMC
+Accession: SAMN29843938	ID: 29843938
+
+48: 1.105.2.2
+Identifiers: BioSample: SAMN29843937; Sample name: SAMPL011; SRA: SRS13996249
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="62"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="11"
+Description:
+PBMC
+Accession: SAMN29843937	ID: 29843937
+
+49: 1.076.4.2
+Identifiers: BioSample: SAMN29843935; Sample name: SAMPL009; SRA: SRS13996281
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="74"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="9"
+Description:
+PBMC
+Accession: SAMN29843935	ID: 29843935
+
+50: 1.074.2.2
+Identifiers: BioSample: SAMN29843934; Sample name: SAMPL008; SRA: SRS13996280
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="57"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="8"
+Description:
+PBMC
+Accession: SAMN29843934	ID: 29843934
+
+
+51: 1.065.2.2
+Identifiers: BioSample: SAMN29843933; Sample name: SAMPL007; SRA: SRS13996279
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="56"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="7"
+Description:
+PBMC
+Accession: SAMN29843933	ID: 29843933
+
+52: 1.027.2.2
+Identifiers: BioSample: SAMN29843930; Sample name: SAMPL004; SRA: SRS13996269
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="25"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="4"
+Description:
+PBMC
+Accession: SAMN29843930	ID: 29843930
+
+53: 1.019.2.2
+Identifiers: BioSample: SAMN29843928; Sample name: SAMPL002; SRA: SRS13996247
+Organism: Homo sapiens
+Attributes:
+    /isolate="N/A"
+    /age="31"
+    /biomaterial provider="Zulma Rueda (PI), Department of Medical Microbiology and Infectious Diseases, University of Manitoba"
+    /sex="male"
+    /tissue="Blood"
+    /cell line="N/A"
+    /cell subtype="N/A"
+    /cell type="PBMC"
+    /culture collection="N/A"
+    /development stage="N/A"
+    /disease="new tuberculosis infection"
+    /disease stage="new tuberculosis infection"
+    /ethnicity="mixed-Latin American"
+    /karyotype="N/A"
+    /phenotype="N/A"
+    /population="N/A"
+    /race="Unknow"
+    /sample type="PBMC from blood"
+    /treatment="N/A"
+    /Consecutive number="2"
+Description:
+PBMC
+Accession: SAMN29843928	ID: 29843928
+
+54: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN29094757; Sample name: H1688 NU7441-4; SRA: SRS13407126
+Organism: Homo sapiens
+Attributes:
+    /isolate="NCI-H1688 cells treated with NU7441 short read-4"
+    /age="50"
+    /biomaterial provider="teng ma; Beijing"
+    /sex="male"
+    /tissue="lung"
+    /cell line="NCI-H1688"
+    /cell subtype="SCLC"
+    /cell type="Lung Carcinoma"
+Accession: SAMN29094757	ID: 29094757
+
+55: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN29094756; Sample name: H1688 DMSO-4; SRA: SRS13407125
+Organism: Homo sapiens
+Attributes:
+    /isolate="NCI-H1688 cells treated with DMSO control short read-4"
+    /age="50"
+    /biomaterial provider="teng ma; Beijing"
+    /sex="male"
+    /tissue="lung"
+    /cell line="NCI-H1688"
+    /cell subtype="SCLC"
+    /cell type="Lung Carcinoma"
+Accession: SAMN29094756	ID: 29094756
+
+56: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN29094755; Sample name: H1688 NU7441-3; SRA: SRS13407124
+Organism: Homo sapiens
+Attributes:
+    /isolate="NCI-H1688 cells treated with NU7441 short read-3"
+    /age="50"
+    /biomaterial provider="teng ma; Beijing"
+    /sex="male"
+    /tissue="lung"
+    /cell line="NCI-H1688"
+    /cell subtype="SCLC"
+    /cell type="Lung Carcinoma"
+Accession: SAMN29094755	ID: 29094755
+
+57: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN29094754; Sample name: H1688 DMSO-3; SRA: SRS13407123
+Organism: Homo sapiens
+Attributes:
+    /isolate="NCI-H1688 cells treated with DMSO control short read-3"
+    /age="50"
+    /biomaterial provider="teng ma; Beijing"
+    /sex="male"
+    /tissue="lung"
+    /cell line="NCI-H1688"
+    /cell subtype="SCLC"
+    /cell type="Lung Carcinoma"
+Accession: SAMN29094754	ID: 29094754
+
+58: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN29094753; Sample name: H1688 NU7441-2; SRA: SRS13407122
+Organism: Homo sapiens
+Attributes:
+    /isolate="NCI-H1688 cells treated with NU7441 short read-2"
+    /age="50"
+    /biomaterial provider="teng ma; Beijing"
+    /sex="male"
+    /tissue="lung"
+    /cell line="NCI-H1688"
+    /cell subtype="SCLC"
+    /cell type="Lung Carcinoma"
+Accession: SAMN29094753	ID: 29094753
+
+59: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN29094752; Sample name: H1688 DMSO-2; SRA: SRS13407121
+Organism: Homo sapiens
+Attributes:
+    /isolate="NCI-H1688 cells treated with DMSO control short read-2"
+    /age="50"
+    /biomaterial provider="teng ma; Beijing"
+    /sex="male"
+    /tissue="lung"
+    /cell line="NCI-H1688"
+    /cell subtype="SCLC"
+    /cell type="Lung Carcinoma"
+Accession: SAMN29094752	ID: 29094752
+
+60: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN29094751; Sample name: H1688 NU7441-1; SRA: SRS13407120
+Organism: Homo sapiens
+Attributes:
+    /isolate="NCI-H1688 cells treated with NU7441 long read"
+    /age="50"
+    /biomaterial provider="teng ma; Beijing"
+    /sex="male"
+    /tissue="lung"
+    /cell line="NCI-H1688"
+    /cell subtype="SCLC"
+    /cell type="Lung Carcinoma"
+Accession: SAMN29094751	ID: 29094751
+
+61: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN29094750; Sample name: H1688 DMSO-1; SRA: SRS13407119
+Organism: Homo sapiens
+Attributes:
+    /isolate="NCI-H1688 cells treated with DMSO control long read"
+    /age="50"
+    /biomaterial provider="teng ma; Beijing"
+    /sex="male"
+    /tissue="lung"
+    /cell line="NCI-H1688"
+    /cell subtype="SCLC"
+    /cell type="Lung Carcinoma"
+Accession: SAMN29094750	ID: 29094750
+
+62: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28987824; Sample name: LTB_90489-Sample-15_S14_R1; SRA: SRS13380178
+Organism: Homo sapiens
+Attributes:
+    /isolate="Exosomes"
+    /age="44"
+    /biomaterial provider="Peripheral blood"
+    /sex="female"
+    /tissue="Blood"
+    /disease="Latent Tuberculosis"
+Accession: SAMN28987824	ID: 28987824
+
+63: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28987823; Sample name: LTB_90489-Sample-11_S10_R1; SRA: SRS13380177
+Organism: Homo sapiens
+Attributes:
+    /isolate="Exosomes"
+    /age="36"
+    /biomaterial provider="Peripheral blood"
+    /sex="male"
+    /tissue="Blood"
+    /disease="Latent Tuberculosis"
+Accession: SAMN28987823	ID: 28987823
+
+64: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28987822; Sample name: ATB_90489-Sample_27_S4_R1; SRA: SRS13380176
+Organism: Homo sapiens
+Attributes:
+    /isolate="Exosomes"
+    /age="46"
+    /biomaterial provider="Peripheral blood"
+    /sex="male"
+    /tissue="Blood"
+    /disease="Active Tuberculosis"
+Accession: SAMN28987822	ID: 28987822
+
+65: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28867236; Sample name: WTA_Index_20201226_MIX_4_6-2_S1_L004_001.fastq; SRA: SRS13301009
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="not collected"
+    /biomaterial provider="Ziyong Sun"
+    /sex="not collected"
+    /tissue="Blood"
+    /id&lt;/u&gt;&lt;u&gt;="11&lt;/u&gt;&lt;u&gt;"
+Accession: SAMN28867236	ID: 28867236
+
+66: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28867235; Sample name: WTA_Index_20201226_MIX_4_6-1_S1_L001_001.fastq; SRA: SRS13301013
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="not collected"
+    /biomaterial provider="Ziyong Sun"
+    /sex="not collected"
+    /tissue="Blood"
+    /id&lt;/u&gt;&lt;u&gt;="10&lt;/u&gt;&lt;u&gt;"
+Accession: SAMN28867235	ID: 28867235
+
+67: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28867234; Sample name: WTA_Index_20201224_MIX_1_3-1_S1_L003_001.fastq; SRA: SRS13301014
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="not collected"
+    /biomaterial provider="Ziyong Sun"
+    /sex="not collected"
+    /tissue="Blood"
+    /id&lt;/u&gt;&lt;u&gt;="9&lt;/u&gt;&lt;u&gt;"
+Accession: SAMN28867234	ID: 28867234
+
+68: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28867233; Sample name: ST_Index_20201226_MIX_4_6-2_S1_L002_001.fastq; SRA: SRS13301015
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="not collected"
+    /biomaterial provider="Ziyong Sun"
+    /sex="not collected"
+    /tissue="Blood"
+    /id&lt;/u&gt;&lt;u&gt;="8&lt;/u&gt;&lt;u&gt;"
+Accession: SAMN28867233	ID: 28867233
+
+69: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28867232; Sample name: ST_Index_20201226_MIX_4_6-1_S1_L004_001.fastq; SRA: SRS13301016
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="not collected"
+    /biomaterial provider="Ziyong Sun"
+    /sex="not collected"
+    /tissue="Blood"
+    /id&lt;/u&gt;&lt;u&gt;="7&lt;/u&gt;&lt;u&gt;"
+Accession: SAMN28867232	ID: 28867232
+
+70: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28867231; Sample name: ST_Index_20201224_MIX_1_3-2_S1_L002_001.fastq; SRA: SRS13301008
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="not collected"
+    /biomaterial provider="Ziyong Sun"
+    /sex="not collected"
+    /tissue="Blood"
+    /id&lt;/u&gt;&lt;u&gt;="6&lt;/u&gt;&lt;u&gt;"
+Accession: SAMN28867231	ID: 28867231
+
+71: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28867230; Sample name: ST_Index_20201224_MIX_1_3-1_S1_L004_001.fastq; SRA: SRS13301010
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="not collected"
+    /biomaterial provider="Ziyong Sun"
+    /sex="not collected"
+    /tissue="Blood"
+    /id&lt;/u&gt;&lt;u&gt;="5&lt;/u&gt;&lt;u&gt;"
+Accession: SAMN28867230	ID: 28867230
+
+72: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28867229; Sample name: AbSeq_Index_20201226_MIX_4_6-2_S1_L001_001.fastq; SRA: SRS13301011
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="not collected"
+    /biomaterial provider="Ziyong Sun"
+    /sex="not collected"
+    /tissue="Blood"
+    /id&lt;/u&gt;&lt;u&gt;="4&lt;/u&gt;&lt;u&gt;"
+Accession: SAMN28867229	ID: 28867229
+
+73: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28867228; Sample name: AbSeq_Index_20201226_MIX_4_6-1_S1_L002_001.fastq; SRA: SRS13301012
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="not collected"
+    /biomaterial provider="Ziyong Sun"
+    /sex="not collected"
+    /tissue="Blood"
+    /id&lt;/u&gt;&lt;u&gt;="3&lt;/u&gt;&lt;u&gt;"
+Accession: SAMN28867228	ID: 28867228
+
+74: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28867227; Sample name: AbSeq_Index_20201224_2-2_S1_L002_001.fastq; SRA: SRS13301007
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="not collected"
+    /biomaterial provider="Ziyong Sun"
+    /sex="not collected"
+    /tissue="Blood"
+    /id&lt;/u&gt;&lt;u&gt;="2&lt;/u&gt;&lt;u&gt;"
+Accession: SAMN28867227	ID: 28867227
+
+75: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN28867226; Sample name: AbSeq_Index_20201224_2-1_S1_L003_001.fastq; SRA: SRS13301006
+Organism: Homo sapiens
+Attributes:
+    /isolate="Tuberculosis patient"
+    /age="not collected"
+    /biomaterial provider="Ziyong Sun"
+    /sex="not collected"
+    /tissue="Blood"
+    /id&lt;/u&gt;&lt;u&gt;="1&lt;/u&gt;&lt;u&gt;"
+Accession: SAMN28867226	ID: 28867226
+
+76: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375956; Sample name: 0487-009CVK00-001; SRA: SRS8071148
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830031T"
+    /age="31"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Two Months"
+Description:
+Two Months
+Accession: SAMN17375956	ID: 17375956
+
+77: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375955; Sample name: 0487-00989K00-001; SRA: SRS8071146
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830031T"
+    /age="31"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375955	ID: 17375955
+
+78: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375954; Sample name: 0487-0096GH00-001; SRA: SRS8071145
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830031T"
+    /age="31"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375954	ID: 17375954
+
+79: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375953; Sample name: 0487-009D4C00-001; SRA: SRS8071144
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830030T"
+    /age="30"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Two Months"
+Description:
+Two Months
+Accession: SAMN17375953	ID: 17375953
+
+80: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375952; Sample name: 0487-00987F00-001; SRA: SRS8071143
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830030T"
+    /age="30"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375952	ID: 17375952
+
+81: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375951; Sample name: 0487-0096JA00-001; SRA: SRS8071142
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830030T"
+    /age="30"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375951	ID: 17375951
+
+82: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375950; Sample name: 0487-009BYB00-001; SRA: SRS8071141
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830028T"
+    /age="52"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Two Months"
+Description:
+Two Months
+Accession: SAMN17375950	ID: 17375950
+
+83: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375949; Sample name: 0487-0097LF00-001; SRA: SRS8071140
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830028T"
+    /age="52"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375949	ID: 17375949
+
+84: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375948; Sample name: 0487-00967A00-001; SRA: SRS8071139
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830028T"
+    /age="52"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375948	ID: 17375948
+
+85: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375947; Sample name: 0487-0092ME00-001; SRA: SRS8071138
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830024T"
+    /age="33"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Two Months"
+Description:
+Two Months
+Accession: SAMN17375947	ID: 17375947
+
+86: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375946; Sample name: HEB0184J-01; SRA: SRS8071137
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830024T"
+    /age="33"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375946	ID: 17375946
+
+87: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375945; Sample name: HEB017G5-01; SRA: SRS8071135
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830024T"
+    /age="33"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375945	ID: 17375945
+
+88: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375944; Sample name: 0487-0091QE00-001; SRA: SRS8071134
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830023T"
+    /age="23"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Two Months"
+Description:
+Two Months
+Accession: SAMN17375944	ID: 17375944
+
+89: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375943; Sample name: AEB017TL-01; SRA: SRS8071133
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830023T"
+    /age="23"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375943	ID: 17375943
+
+90: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375942; Sample name: BEB0178X-01; SRA: SRS8071132
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830023T"
+    /age="23"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375942	ID: 17375942
+
+91: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375941; Sample name: 0487-0090KC00-001; SRA: SRS8071131
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830022T"
+    /age="33"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Two Months"
+Description:
+Two Months
+Accession: SAMN17375941	ID: 17375941
+
+92: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375940; Sample name: KEB017G7-01; SRA: SRS8071130
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830022T"
+    /age="33"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375940	ID: 17375940
+
+93: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375939; Sample name: HEB016KD-01; SRA: SRS8071129
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830022T"
+    /age="33"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375939	ID: 17375939
+
+94: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375938; Sample name: 0487-0090QD00-001; SRA: SRS8071128
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830021T"
+    /age="53"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Two Months"
+Description:
+Two Months
+Accession: SAMN17375938	ID: 17375938
+
+95: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375937; Sample name: EEB017G9-01; SRA: SRS8071127
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830021T"
+    /age="53"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375937	ID: 17375937
+
+96: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375936; Sample name: KEB016K1-01; SRA: SRS8071126
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830021T"
+    /age="53"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375936	ID: 17375936
+
+97: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375935; Sample name: AEB01739-01; SRA: SRS8071124
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830019T"
+    /age="25"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375935	ID: 17375935
+
+98: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375934; Sample name: KEB016CT-01; SRA: SRS8071123
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830019T"
+    /age="25"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375934	ID: 17375934
+
+99: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375933; Sample name: 0487-00908F00-001; SRA: SRS8071121
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830018T"
+    /age="33"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Two Months"
+Description:
+Two Months
+Accession: SAMN17375933	ID: 17375933
+
+100: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375932; Sample name: BEB016VM-01; SRA: SRS8071122
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830018T"
+    /age="33"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375932	ID: 17375932
+
+
+101: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375931; Sample name: CEB0169Y-01; SRA: SRS8071120
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830018T"
+    /age="33"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375931	ID: 17375931
+
+102: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375930; Sample name: 0487-008Z1B00-001; SRA: SRS8071119
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830017T"
+    /age="52"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Two Months"
+Description:
+Two Months
+Accession: SAMN17375930	ID: 17375930
+
+103: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375929; Sample name: DEB016X7-01; SRA: SRS8071118
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830017T"
+    /age="52"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375929	ID: 17375929
+
+104: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375928; Sample name: BEB01662-01; SRA: SRS8071117
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830017T"
+    /age="52"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375928	ID: 17375928
+
+105: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375927; Sample name: KEB0184C-01; SRA: SRS8071116
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830015T"
+    /age="35"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Two Months"
+Description:
+Two Months
+Accession: SAMN17375927	ID: 17375927
+
+106: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375926; Sample name: FEB01613-01; SRA: SRS8071115
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830015T"
+    /age="35"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375926	ID: 17375926
+
+107: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375925; Sample name: AEB015QG-01; SRA: SRS8071113
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830015T"
+    /age="35"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375925	ID: 17375925
+
+108: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375924; Sample name: FEB015N3-01; SRA: SRS8071112
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830013T"
+    /age="50"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Two Months"
+Description:
+Two Months
+Accession: SAMN17375924	ID: 17375924
+
+109: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375923; Sample name: AEB01507-01; SRA: SRS8071111
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830013T"
+    /age="50"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375923	ID: 17375923
+
+110: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375922; Sample name: DEB014JQ-01; SRA: SRS8071110
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830013T"
+    /age="50"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375922	ID: 17375922
+
+111: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375921; Sample name: GEB015MP-01; SRA: SRS8071109
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830012T"
+    /age="32"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Two Months"
+Description:
+Two Months
+Accession: SAMN17375921	ID: 17375921
+
+112: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375920; Sample name: CEB014WT-01; SRA: SRS8071108
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830012T"
+    /age="32"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375920	ID: 17375920
+
+113: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375919; Sample name: CEB014JD-01; SRA: SRS8071107
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830012T"
+    /age="32"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375919	ID: 17375919
+
+114: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375918; Sample name: CEB015DF-01; SRA: SRS8071106
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830011T"
+    /age="25"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Two Months"
+Description:
+Two Months
+Accession: SAMN17375918	ID: 17375918
+
+115: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375917; Sample name: GEB014SG-01; SRA: SRS8071105
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830011T"
+    /age="25"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375917	ID: 17375917
+
+116: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375916; Sample name: GEB0148Y-01; SRA: SRS8071104
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830011T"
+    /age="25"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375916	ID: 17375916
+
+117: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375915; Sample name: EEB011NG-01; SRA: SRS8071102
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830010T"
+    /age="25"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375915	ID: 17375915
+
+118: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375914; Sample name: GEB011FD-01; SRA: SRS8071101
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830010T"
+    /age="25"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375914	ID: 17375914
+
+119: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375913; Sample name: BEB0114C-01; SRA: SRS8071100
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830008T"
+    /age="27"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375913	ID: 17375913
+
+120: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375912; Sample name: JEB010XZ-01; SRA: SRS8071099
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830008T"
+    /age="27"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375912	ID: 17375912
+
+121: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375911; Sample name: KEB010Z7-01; SRA: SRS8071098
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830006T"
+    /age="31"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375911	ID: 17375911
+
+122: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375910; Sample name: BEB010NN-01; SRA: SRS8071097
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830006T"
+    /age="31"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375910	ID: 17375910
+
+123: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375909; Sample name: AEB010CP-01; SRA: SRS8071096
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830005T"
+    /age="43"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375909	ID: 17375909
+
+124: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375908; Sample name: KEB01067-01; SRA: SRS8071095
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830005T"
+    /age="43"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375908	ID: 17375908
+
+125: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375907; Sample name: HEB0101Y-01; SRA: SRS8071094
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830004T"
+    /age="24"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375907	ID: 17375907
+
+126: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375906; Sample name: AEB00ZY2-01; SRA: SRS8071093
+Organism: Homo sapiens
+Attributes:
+    /isolate="1830004T"
+    /age="24"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375906	ID: 17375906
+
+127: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375850; Sample name: GEB00ZWR-01; SRA: SRS8071180
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041065"
+    /age="52"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375850	ID: 17375850
+
+128: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375849; Sample name: EEB00ZKQ-01; SRA: SRS8071179
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041065"
+    /age="52"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375849	ID: 17375849
+
+129: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375848; Sample name: CEB00ZDB-01; SRA: SRS8071178
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041062"
+    /age="34"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375848	ID: 17375848
+
+130: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375847; Sample name: BEB00YWL-01; SRA: SRS8071177
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041062"
+    /age="34"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375847	ID: 17375847
+
+131: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375846; Sample name: EEB00ZD8-01; SRA: SRS8071176
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041061"
+    /age="34"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375846	ID: 17375846
+
+132: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375845; Sample name: AEB00YJV-01; SRA: SRS8071175
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041061"
+    /age="34"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375845	ID: 17375845
+
+133: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375844; Sample name: GEB00Z16-01; SRA: SRS8071173
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041059"
+    /age="38"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375844	ID: 17375844
+
+134: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375843; Sample name: KEB00YJ0-01; SRA: SRS8071172
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041059"
+    /age="38"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375843	ID: 17375843
+
+135: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375842; Sample name: DEB00Z0W-01; SRA: SRS8071171
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041058"
+    /age="38"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375842	ID: 17375842
+
+136: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375841; Sample name: GEB00YH9-01; SRA: SRS8071170
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041058"
+    /age="38"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375841	ID: 17375841
+
+137: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375840; Sample name: AEB00YT2-01; SRA: SRS8071169
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041057"
+    /age="26"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375840	ID: 17375840
+
+138: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375839; Sample name: GEB00Y9H-01; SRA: SRS8071168
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041057"
+    /age="26"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375839	ID: 17375839
+
+139: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375838; Sample name: GEB00ZDD-01; SRA: SRS8071167
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041055"
+    /age="23"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375838	ID: 17375838
+
+140: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375837; Sample name: GEB00XYB-01; SRA: SRS8071166
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041055"
+    /age="23"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375837	ID: 17375837
+
+141: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375836; Sample name: BEB00Y3V-01; SRA: SRS8071165
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041054"
+    /age="21"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375836	ID: 17375836
+
+142: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375835; Sample name: GEB00XWG-01; SRA: SRS8071163
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041054"
+    /age="21"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375835	ID: 17375835
+
+143: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375834; Sample name: HEB00ZDG-01; SRA: SRS8071162
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041052"
+    /age="26"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375834	ID: 17375834
+
+144: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375833; Sample name: GEB00X11-01; SRA: SRS8071161
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041052"
+    /age="26"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375833	ID: 17375833
+
+145: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375832; Sample name: FEB00XCD-01; SRA: SRS8071160
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041051"
+    /age="25"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375832	ID: 17375832
+
+146: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375831; Sample name: DEB00X0F-01; SRA: SRS8071159
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041051"
+    /age="25"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375831	ID: 17375831
+
+147: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375830; Sample name: GEB00X3T-01; SRA: SRS8071158
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041049"
+    /age="23"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375830	ID: 17375830
+
+148: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375829; Sample name: EEB00WWS-01; SRA: SRS8071157
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041049"
+    /age="23"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375829	ID: 17375829
+
+149: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375828; Sample name: FEB00WSL-01; SRA: SRS8071156
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041047"
+    /age="19"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375828	ID: 17375828
+
+150: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375827; Sample name: EEB00WBG-01; SRA: SRS8071155
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041047"
+    /age="19"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375827	ID: 17375827
+
+
+151: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375826; Sample name: BEB00WPB-01; SRA: SRS8071154
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041046"
+    /age="41"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375826	ID: 17375826
+
+152: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375825; Sample name: EEB00W54-01; SRA: SRS8071152
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041046"
+    /age="41"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375825	ID: 17375825
+
+153: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375824; Sample name: HEB00W1N-01; SRA: SRS8071151
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041043"
+    /age="21"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375824	ID: 17375824
+
+154: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375823; Sample name: FEB00VFH-01; SRA: SRS8071150
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041043"
+    /age="21"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375823	ID: 17375823
+
+155: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375822; Sample name: DEB00TVP-01; SRA: SRS8071149
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041038"
+    /age="20"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375822	ID: 17375822
+
+156: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375821; Sample name: FEB00TNX-01; SRA: SRS8071147
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041038"
+    /age="20"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375821	ID: 17375821
+
+157: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375820; Sample name: AEB00TPQ-01; SRA: SRS8071136
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041036"
+    /age="24"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375820	ID: 17375820
+
+158: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375819; Sample name: HEB00TGB-01; SRA: SRS8071125
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041036"
+    /age="24"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375819	ID: 17375819
+
+159: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375818; Sample name: FEB00TBY-01; SRA: SRS8071114
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041034"
+    /age="25"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375818	ID: 17375818
+
+160: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375817; Sample name: FEB00T3H-01; SRA: SRS8071103
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041034"
+    /age="25"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375817	ID: 17375817
+
+161: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375816; Sample name: EEB00T64-01; SRA: SRS8071092
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041033"
+    /age="32"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375816	ID: 17375816
+
+162: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375815; Sample name: JEB00SZ2-01; SRA: SRS8071231
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041033"
+    /age="32"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375815	ID: 17375815
+
+163: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375814; Sample name: KEB00SS5-01; SRA: SRS8071219
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041029"
+    /age="42"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375814	ID: 17375814
+
+164: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375813; Sample name: CEB00SJ4-01; SRA: SRS8071208
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041029"
+    /age="42"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375813	ID: 17375813
+
+165: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375812; Sample name: JEB00SSM-01; SRA: SRS8071198
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041028"
+    /age="27"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375812	ID: 17375812
+
+166: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375811; Sample name: JEB00SHT-01; SRA: SRS8071186
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041028"
+    /age="27"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375811	ID: 17375811
+
+167: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375810; Sample name: CEB00SC7-01; SRA: SRS8071174
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041024"
+    /age="22"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375810	ID: 17375810
+
+168: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375809; Sample name: JEB00TR4-01; SRA: SRS8071164
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041023"
+    /age="21"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375809	ID: 17375809
+
+169: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375808; Sample name: DEB00S2L-01; SRA: SRS8071153
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041023"
+    /age="21"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="male"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375808	ID: 17375808
+
+170: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375807; Sample name: JEB00KKR-01; SRA: SRS8071091
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041008"
+    /age="36"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="HRZE; Day 14"
+Description:
+Day 14
+Accession: SAMN17375807	ID: 17375807
+
+171: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN17375806; Sample name: EEB00K7X-01; SRA: SRS8071090
+Organism: Homo sapiens
+Attributes:
+    /isolate="3041008"
+    /age="36"
+    /biomaterial provider="LES CENTRES GHESKIO IMIS, Chateau Blond - Tabarre 41, Entrance Rue T.Auguste, Rue Roumain, Port-au-Prince, Haiti"
+    /sex="female"
+    /tissue="Peripheral whole blood"
+    /disease="Tuberculosis"
+    /treatment="Pre-treatment; Day 0"
+Description:
+Day 0
+Accession: SAMN17375806	ID: 17375806
+
+172: Intraocular Tuberculosis
+Identifiers: BioSample: SAMN18819228; Sample name: OTB2; SRA: SRS8746023
+Organism: Homo sapiens
+Attributes:
+    /isolate="Intraocular Tuberculosis"
+    /age="21"
+    /biomaterial provider="Aravind Eye Hospital, Madurai,India"
+    /sex="male"
+    /tissue="Aqueous Humor"
+    /disease="Intraocular Tuberculosis"
+    /ethnicity="South Indian"
+Accession: SAMN18819228	ID: 18819228
+
+173: Intraocular Tuberculosis
+Identifiers: BioSample: SAMN18819227; Sample name: OTB1; SRA: SRS8746022
+Organism: Homo sapiens
+Attributes:
+    /isolate="Intraocular Tuberculosis"
+    /age="55"
+    /biomaterial provider="Aravind Eye Hospital, Madurai,India"
+    /sex="female"
+    /tissue="Aqueous Humor"
+    /disease="Intraocular Tuberculosis"
+    /ethnicity="South Indian"
+Accession: SAMN18819227	ID: 18819227
+
+174: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN18174301; Sample name: mNC120; SRA: SRS8389141
+Organism: Homo sapiens
+Attributes:
+    /isolate="NC120"
+    /age="n/a"
+    /biomaterial provider="Gu Lab / Chiu Lab"
+    /sex="not collected"
+    /tissue="Peritoneal"
+    /disease="Positive Culture: Mycobacterium tuberculosis"
+    /sample type="liquid tissue sample"
+Description:
+Positive Culture: Mycobacterium tuberculosis
+Accession: SAMN18174301	ID: 18174301
+
+175: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN18174294; Sample name: mNC113; SRA: SRS8389134
+Organism: Homo sapiens
+Attributes:
+    /isolate="NC113"
+    /age="n/a"
+    /biomaterial provider="Gu Lab / Chiu Lab"
+    /sex="not collected"
+    /tissue="Peritoneal"
+    /disease="Positive Culture: Mycobacterium tuberculosis"
+    /sample type="liquid tissue sample"
+Description:
+Positive Culture: Mycobacterium tuberculosis
+Accession: SAMN18174294	ID: 18174294
+
+176: 951
+Identifiers: BioSample: SAMN16970516; Sample name: NC120; SRA: SRS7817390
+Organism: Homo sapiens
+Attributes:
+    /isolate="NC120"
+    /age="n/a"
+    /biomaterial provider="Gu Lab / Chiu Lab"
+    /sex="not collected"
+    /tissue="Peritoneal"
+    /disease="Positive Culture: Mycobacterium tuberculosis"
+    /sample type="liquid tissue sample"
+Description:
+Positive Culture: Mycobacterium tuberculosis
+Accession: SAMN16970516	ID: 16970516
+
+177: 526
+Identifiers: BioSample: SAMN16970509; Sample name: NC113; SRA: SRS7817383
+Organism: Homo sapiens
+Attributes:
+    /isolate="NC113"
+    /age="n/a"
+    /biomaterial provider="Gu Lab / Chiu Lab"
+    /sex="not collected"
+    /tissue="Peritoneal"
+    /disease="Positive Culture: Mycobacterium tuberculosis"
+    /sample type="liquid tissue sample"
+Description:
+Positive Culture: Mycobacterium tuberculosis
+Accession: SAMN16970509	ID: 16970509
+
+178: 757
+Identifiers: BioSample: SAMN16970469; Sample name: NC73; SRA: SRS7817465
+Organism: Homo sapiens
+Attributes:
+    /isolate="NC73"
+    /age="n/a"
+    /biomaterial provider="Gu Lab / Chiu Lab"
+    /sex="not collected"
+    /tissue="FNA"
+    /disease="NGS Results: Mycobacterium tuberculosis complex: 11.2 RPM. Pathogen Confirmation: Mycobacterium tuberculosis"
+    /sample type="liquid tissue sample"
+Description:
+NGS Results: Mycobacterium tuberculosis complex: 11.2 RPM.  Pathogen Confirmation: Mycobacterium tuberculosis
+Accession: SAMN16970469	ID: 16970469
+
+179: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN15470370; Sample name: P-141000_S78_L008_R1_001; SRA: SRS6963120
+Organism: Homo sapiens
+Attributes:
+    /isolate="Exosomes"
+    /age="25"
+    /biomaterial provider="Peripheral blood"
+    /sex="female"
+    /tissue="Blood"
+    /disease="Latent Tuberculosis"
+Accession: SAMN15470370	ID: 15470370
+
+180: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN15470365; Sample name: P-196000_S79_L008_R1_001; SRA: SRS6963127
+Organism: Homo sapiens
+Attributes:
+    /isolate="Exosomes"
+    /age="27"
+    /biomaterial provider="Peripheral blood"
+    /sex="male"
+    /tissue="Blood"
+    /disease="Active Tuberculosis"
+Accession: SAMN15470365	ID: 15470365
+
+181: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN15470364; Sample name: 81715-374000_S11_R1; SRA: SRS6963126
+Organism: Homo sapiens
+Attributes:
+    /isolate="Exosomes"
+    /age="42"
+    /biomaterial provider="Peripheral blood"
+    /sex="female"
+    /tissue="Blood"
+    /disease="Active Tuberculosis"
+Accession: SAMN15470364	ID: 15470364
+
+182: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN15470363; Sample name: 81715-210000_S10_R1; SRA: SRS6963125
+Organism: Homo sapiens
+Attributes:
+    /isolate="Exosomes"
+    /age="18"
+    /biomaterial provider="Peripheral blood"
+    /sex="female"
+    /tissue="Blood"
+    /disease="Active Tuberculosis"
+Accession: SAMN15470363	ID: 15470363
+
+183: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN15470362; Sample name: 81715-200000_S9_R1; SRA: SRS6963124
+Organism: Homo sapiens
+Attributes:
+    /isolate="Exosomes"
+    /age="39"
+    /biomaterial provider="Peripheral blood"
+    /sex="male"
+    /tissue="Blood"
+    /disease="Latent Tuberculosis"
+Accession: SAMN15470362	ID: 15470362
+
+184: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN15470361; Sample name: 81715-144000_S8_R1; SRA: SRS6963123
+Organism: Homo sapiens
+Attributes:
+    /isolate="Exosomes"
+    /age="38"
+    /biomaterial provider="Peripheral blood"
+    /sex="female"
+    /tissue="Blood"
+    /disease="Latent Tuberculosis"
+Accession: SAMN15470361	ID: 15470361
+
+185: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN10423117; Sample name: M668; SRA: SRS4041430
+Organism: Homo sapiens
+Attributes:
+    /isolate="cervix_fornix105"
+    /biomaterial provider="SACAICET_Maria_Gloria_Dominguez_Rugerts_University"
+    /TITLE="Vaginal bacterial microbiota and Human Papillomavirus spanning urbanization Amerindians and mestizos"
+    /ANONYMIZED_NAME="M668"
+    /scientific_name="Human vaginal metagenome"
+    /TAXON_ID="1632839"
+    /sample type="cervix_fornix"
+    /elevation="100m"
+    /broad-scale environmental context="Semiurban_biome"
+    /local-scale environmental context="human_associated_habitat"
+    /environmental medium="mucose"
+    /tissue="Human_vaginal_cervix_fornix"
+    /LATITUDE="4.806929"
+    /LONGITUDE="-67.594757"
+    /COLLECTION_TIMESTAMP="2015"
+    /dna_extracted="True"
+    /physical_specimen_location="NYU"
+    /physical_specimen_remaining="True"
+    /host subject id="105"
+    /age="34 years"
+    /sex="female"
+    /sampling_location_region="ceguera"
+    /birthday="2015-07-21T00:00:00"
+    /village_of_pacient="cano_grulla_2"
+    /Urbanization_index_according_to_community_urban_level_from_0_to_1_(Vargas-Robles, et al.2018)="0.213514069"
+    /age_range="Adult"
+    /urbanization_level_ame="Low"
+    /BMI_clasification="Normal"
+    /body_temperature_C="36.6"
+    /weight_kg_="41.2"
+    /height_m="1.465"
+    /body mass index="19.2"
+    /blood_pressure_High_mmHg_="110"
+    /blood_pressure_low_mmHg_="70"
+    /hemoglobine_g_dl_="13.4"
+    /Anemia="No"
+    /cholesterol_mg_dl_="281"
+    /glicemia_mg_dl_="100"
+    /last_meal_hours="0.5"
+    /glicemia_status="Normal"
+    /Vision_average_right_and_left_eye_up_to_from0_to_11="4"
+    /skin_lesions_yes_no="No"
+    /flat_feet_yes_no="No"
+    /athleat_feet_yes_no_="No"
+    /back_ache_yes_no_="Yes"
+    /caries_presence_few_moderate_many="Many"
+    /ph_vaginal="4.4"
+    /cervical_biopsy_needed_yes_no_="No"
+    /treatment_prescribed_by_dr_after_sampling_no_or_which="No"
+    /speaks_spanish_level_none_medium_High="None"
+    /cigarette_consumption_history_yes_no_="No"
+    /cigarette_consumption_currently_yes_no_="No"
+    /time_smoking_years="not provided"
+    /number_cigarret_daily="not provided"
+    /yaraque_consumption_yes_no="No"
+    /alcohol_consumption_in_life_yes_no_="No"
+    /alcohol_consumption_currently_yes_no_="not provided"
+    /time_drinking_alcohol_years="not provided"
+    /weekly_alcohol_consumption_years="not provided"
+    /hospitalization_history_yes_no="Yes"
+    /quirurgic_intervention_history_yes_no="Yes"
+    /menarche_age="not provided"
+    /number_pregnancies="12"
+    /number_pregnancies_range="more_than_two"
+    /age_of_first_pregnancy="not provided"
+    /number_of_natural_birth_giving="11"
+    /number_of_C_section="not provided"
+    /number_preterm_births="None"
+    /number_aborts="1"
+    /number_alive_kids="9"
+    /breast_feeding_currently_yes_no="Yes"
+    /presence_of_monthly_period_yes_no="Yes"
+    /menstrual_ciclycling_status_regular_25_35_days_irregular_other_frequency="Regular"
+    /patient_type_of_born_natural_c_section="Natural"
+    /patient_was_breast_feed_as_a_child_yes_no="Yes"
+    /time_patient_was_breast_fed_as_a_child_years="not provided"
+    /cytology_performance_history="No"
+    /time_since_last_cytology_test="Never"
+    /diagnostic_of_last_cytology="Never"
+    /cervical_biopsy_history="No"
+    /age_or_the_first_sexual_contact="not provided"
+    /number_sexual_couple_history="1"
+    /number_sexual_couple_history_range="one"
+    /sexual_contact_history_with_Mestizo_yes_no="No"
+    /number_sexual_partner_last_60_days="one"
+    /last_sexual_contact_days="3"
+    /last_sexual_contact_weeks_numbers="less_1_week"
+    /type_of_sexual_contact_usually_practiced_vaginal_anal_oral="Vaginal"
+    /frequency_of_sexual_contact_weekly="&lt;=1_time"
+    /use_of_contraceptives_history="No"
+    /current_use_of_contraceptives="No"
+    /current_contraceptive_method="None"
+    /current_contraceptive_method_hormonal="No"
+    /brand_contraceptive="not provided"
+    /use_of_contraceptives_years="not provided"
+    /quirurgic_sterilization="No"
+    /medicine_use_history="Yes"
+    /antibiotic_use_history="Yes"
+    /time_of_the_last_antibiotic_consumption_last_year_range="more_than_4 months"
+    /last_antibiotic_name="for_tuberculosis"
+    /antiparasitary_use_history="Yes"
+    /time_of_the_last_antiparatitary_consumption_year_range="more_than_4 months"
+    /menstrual_protection_pads_clothpads_tampons="cloth"
+    /use_of_vaginal_lubricant="No"
+    /use_of_vaginal_douch="No"
+    /frequency_of_vaginal_douch_a_year="not provided"
+    /use_of_common_soap_for_vaginal_hygiene="Yes"
+    /teeth_wash_products="water"
+    /parasite species="Entamoeba coli, Chilomastix mesnilii"
+    /number_sp_intestinal_parasites="2"
+    /intestinal_parasites_presence_yes_no="Yes"
+    /percentage_of_traditional_diet="75"
+    /health_history="influenza_tuberculosis_chickenpox_asma"
+    /observation="1_year_baby_Finished_tuberculosis_treatment_1_year_ago"
+    /Wash_teeth_with_cream_daily_yes_no="no"
+    /shoes_always_to_go_out_never="never"
+    /house_floor_type_concret_soil_concret_1_concret_soil_0_5_soil_0="soil"
+    /treatment_drinking_water_yes_no="no"
+    /source_drink_tap_water_well_rain_or_river="rain_or_river"
+    /contraceptive_use_history_yes_noo_y_yes_no_no="no"
+    /use_medication_frequency_monthly_or_more_frequent_annual_or_biannual_less_than_annual_or_never="less_than_annual_or_never"
+    /hospitalized_ever_yes_no="no"
+    /surgery_ever_yes_no="no"
+    /eat_3_times_a_day_yes_no="yes"
+    /diet_24_traditional_mix_processed="traditional"
+    /diet_7days_traditional_mix_processed="traditional"
+    /finished_elementary_school_yes_no="Yes"
+    /finished_highschool_yes_no="No"
+    /spanish_speaking_level_high_medium_low_or_nothing="No"
+    /spanish_writing_yes_no="No"
+    /piaroa_speaking_yes_no="Yes"
+    /have_identification_document_yes_no="Yes"
+    /have_birth_certificate_yes_no="Yes"
+    /have_their_own_crop_yes_no="Yes"
+    /work_for_mony_last_2_years_yes_no="No"
+    /household_monthly_income_lessthanminsalary_or_none_minsalary_more_thanminsalaries="more_than_one_min_salary"
+    /proportion_of_goods_quanties_radio_tv_DVD_blender_fridge_washingmachine_phone_boiler_car_motorcycle_boatmotor_boat_computer_tvcable_1="0.181818182"
+    /sleep_place_bed_both_hammac="both"
+    /food_interchange_practice_yes_no="Yes"
+    /women_did_piaroa_traditional_rite_in_first_period_yes_similar_no="similar"
+    /patient_keep_piaroa_traditional_rite_of_not_eating_big_animals_yes_similar_no="Yes"
+    /malaria_infection_healing_preference_healthcenter(hc)_both_shaman="both"
+    /headache_healing_preference_pills_homemade_medicine_none="both"
+    /snake_bit_healing_preference_healthcenter(hc)_herbs_shaman="shaman"
+    /contraceptive_method_acceptace_yes_no="Yes"
+    /presence_health_staff_during_birth_giving_acceptance_level_high_medium_low="Low"
+    /Patient_vaginal_infection_symptoms_currently="No"
+    /HPV_only_high_risk_both="4neg"
+    /HPV_only_high_risk_both_no_neg="not provided"
+    /Helminths="Negative"
+    /Single_or_multiple_HPV="3Negative"
+    /Single_or_multiple_HPV_no_neg="not provided"
+    /Cervical_lesion_cytology_and_biopsy="not provided"
+    /cervical_inflammation="Moderate_infl"
+    /Cervical_lesion_by_cytology_or_biopsy_yes_no="No"
+    /CST_dendrogram_introitus_cervix="CSTIII_iners"
+    /ph_range="4-4.7"
+    /Sample_with_alpha_values="Yes"
+    /ethnic_group="1Piaroa"
+    /ind_urb_group="1Low"
+    /Bacterial_vaginosis_presence_more_than20%of_clue_cells_in_smear="No"
+    /Introitus_HPV_detection_Lipa25="not provided"
+    /Oral_HPV_detection_Lipa25="not provided"
+    /Anal_HPV_detection_Lipa25="not provided"
+    /Cervical_fornix_HPV_detection_Lipa25="2neg"
+    /Cervical_fornix_HPV_risk_detection_Lipa_25="1No_high_risk"
+    /Cervical_fornix_HPV_risk_detection_Lipa_25_3cat="Neg"
+    /HPV_types="neg"
+    /Days_from_the_biginning_of_the_last_period="not provided"
+    /menstrual_cycle_phase="not provided"
+    /Cervical_citology_B_biopsia_results_="Moderate_infl"
+    /HIV="Neg"
+    /VDRL="No_reactive"
+    /Core_hepatitis_B_Antigen="Neg"
+    /surface_antigen_hepatitis_B="Neg"
+    /Hepatitis_C="Neg"
+Description:
+Human vaginal metagenome
+Accession: SAMN10423117	ID: 10423117
+
+186: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN10423114; Sample name: M460; SRA: SRS4041313
+Organism: Homo sapiens
+Attributes:
+    /isolate="cervix_fornix92"
+    /biomaterial provider="SACAICET_Maria_Gloria_Dominguez_Rugerts_University"
+    /TITLE="Vaginal bacterial microbiota and Human Papillomavirus spanning urbanization Amerindians and mestizos"
+    /ANONYMIZED_NAME="M460"
+    /scientific_name="Human vaginal metagenome"
+    /TAXON_ID="1632839"
+    /sample type="cervix_fornix"
+    /elevation="100m"
+    /broad-scale environmental context="Semiurban_biome"
+    /local-scale environmental context="human_associated_habitat"
+    /environmental medium="mucose"
+    /tissue="Human_vaginal_cervix_fornix"
+    /LATITUDE="5.041778"
+    /LONGITUDE="-67.558139"
+    /COLLECTION_TIMESTAMP="2015"
+    /dna_extracted="True"
+    /physical_specimen_location="NYU"
+    /physical_specimen_remaining="True"
+    /host subject id="92"
+    /age="33 years"
+    /sex="female"
+    /sampling_location_region="raudal_de_danto"
+    /birthday="1982-01-10T00:00:00"
+    /village_of_pacient="cano_piedra"
+    /Urbanization_index_according_to_community_urban_level_from_0_to_1_(Vargas-Robles, et al.2018)="0.240083333"
+    /age_range="Adult"
+    /urbanization_level_ame="Low"
+    /BMI_clasification="Normal"
+    /body_temperature_C="37.3"
+    /weight_kg_="42.7"
+    /height_m="1.42"
+    /body mass index="21.2"
+    /blood_pressure_High_mmHg_="150"
+    /blood_pressure_low_mmHg_="91"
+    /hemoglobine_g_dl_="13.5"
+    /Anemia="No"
+    /cholesterol_mg_dl_="162"
+    /glicemia_mg_dl_="103"
+    /last_meal_hours="4"
+    /glicemia_status="Normal"
+    /Vision_average_right_and_left_eye_up_to_from0_to_11="11"
+    /skin_lesions_yes_no="No"
+    /flat_feet_yes_no="No"
+    /athleat_feet_yes_no_="No"
+    /back_ache_yes_no_="Yes"
+    /caries_presence_few_moderate_many="Many"
+    /ph_vaginal="4"
+    /cervical_biopsy_needed_yes_no_="No"
+    /treatment_prescribed_by_dr_after_sampling_no_or_which="No"
+    /speaks_spanish_level_none_medium_High="None"
+    /cigarette_consumption_history_yes_no_="No"
+    /cigarette_consumption_currently_yes_no_="No"
+    /time_smoking_years="not provided"
+    /number_cigarret_daily="not provided"
+    /yaraque_consumption_yes_no="No"
+    /alcohol_consumption_in_life_yes_no_="No"
+    /alcohol_consumption_currently_yes_no_="not provided"
+    /time_drinking_alcohol_years="not provided"
+    /weekly_alcohol_consumption_years="not provided"
+    /hospitalization_history_yes_no="Yes"
+    /quirurgic_intervention_history_yes_no="Yes"
+    /menarche_age="13"
+    /number_pregnancies="2"
+    /number_pregnancies_range="one_two"
+    /age_of_first_pregnancy="16"
+    /number_of_natural_birth_giving="2"
+    /number_of_C_section="not provided"
+    /number_preterm_births="None"
+    /number_aborts="0"
+    /number_alive_kids="2"
+    /breast_feeding_currently_yes_no="No"
+    /presence_of_monthly_period_yes_no="Yes"
+    /menstrual_ciclycling_status_regular_25_35_days_irregular_other_frequency="Regular"
+    /patient_type_of_born_natural_c_section="Natural"
+    /patient_was_breast_feed_as_a_child_yes_no="Yes"
+    /time_patient_was_breast_fed_as_a_child_years="2"
+    /cytology_performance_history="No"
+    /time_since_last_cytology_test="Never"
+    /diagnostic_of_last_cytology="Never"
+    /cervical_biopsy_history="No"
+    /age_or_the_first_sexual_contact="16"
+    /number_sexual_couple_history="2"
+    /number_sexual_couple_history_range="more_than_one"
+    /sexual_contact_history_with_Mestizo_yes_no="No"
+    /number_sexual_partner_last_60_days="one"
+    /last_sexual_contact_days="7"
+    /last_sexual_contact_weeks_numbers="less_1_week"
+    /type_of_sexual_contact_usually_practiced_vaginal_anal_oral="Vaginal"
+    /frequency_of_sexual_contact_weekly="&lt;=1_time"
+    /use_of_contraceptives_history="No"
+    /current_use_of_contraceptives="No"
+    /current_contraceptive_method="None"
+    /current_contraceptive_method_hormonal="No"
+    /brand_contraceptive="not provided"
+    /use_of_contraceptives_years="not provided"
+    /quirurgic_sterilization="No"
+    /medicine_use_history="Yes"
+    /antibiotic_use_history="Yes"
+    /time_of_the_last_antibiotic_consumption_last_year_range="more_than_4 months"
+    /last_antibiotic_name="amoxicillin"
+    /antiparasitary_use_history="Yes"
+    /time_of_the_last_antiparatitary_consumption_year_range="more_than_4 months"
+    /menstrual_protection_pads_clothpads_tampons="pads"
+    /use_of_vaginal_lubricant="No"
+    /use_of_vaginal_douch="No"
+    /frequency_of_vaginal_douch_a_year="not provided"
+    /use_of_common_soap_for_vaginal_hygiene="Yes"
+    /teeth_wash_products="paste_brush"
+    /parasite species="Entamoeba coli, Endolimax nana, Chilomastix mesnilii, Ascaris lumbricoides, Ancilostomideos"
+    /number_sp_intestinal_parasites="5"
+    /intestinal_parasites_presence_yes_no="Yes"
+    /percentage_of_traditional_diet="85"
+    /health_history="tuberculosis"
+    /observation="tuberculosis_treated_11_years_ago"
+    /Wash_teeth_with_cream_daily_yes_no="no"
+    /shoes_always_to_go_out_never="to_go_out"
+    /house_floor_type_concret_soil_concret_1_concret_soil_0_5_soil_0="soil"
+    /treatment_drinking_water_yes_no="no"
+    /source_drink_tap_water_well_rain_or_river="rain_or_river"
+    /contraceptive_use_history_yes_noo_y_yes_no_no="no"
+    /use_medication_frequency_monthly_or_more_frequent_annual_or_biannual_less_than_annual_or_never="less_than_annual_or_never"
+    /hospitalized_ever_yes_no="yes"
+    /surgery_ever_yes_no="no"
+    /eat_3_times_a_day_yes_no="yes"
+    /diet_24_traditional_mix_processed="traditional"
+    /diet_7days_traditional_mix_processed="traditional"
+    /finished_elementary_school_yes_no="Yes"
+    /finished_highschool_yes_no="No"
+    /spanish_speaking_level_high_medium_low_or_nothing="No"
+    /spanish_writing_yes_no="No"
+    /piaroa_speaking_yes_no="Yes"
+    /have_identification_document_yes_no="Yes"
+    /have_birth_certificate_yes_no="Yes"
+    /have_their_own_crop_yes_no="Yes"
+    /work_for_mony_last_2_years_yes_no="Yes"
+    /household_monthly_income_lessthanminsalary_or_none_minsalary_more_thanminsalaries="less_than_min_salary"
+    /proportion_of_goods_quanties_radio_tv_DVD_blender_fridge_washingmachine_phone_boiler_car_motorcycle_boatmotor_boat_computer_tvcable_1="0.090909091"
+    /sleep_place_bed_both_hammac="hammac"
+    /food_interchange_practice_yes_no="Yes"
+    /women_did_piaroa_traditional_rite_in_first_period_yes_similar_no="similar"
+    /patient_keep_piaroa_traditional_rite_of_not_eating_big_animals_yes_similar_no="Yes"
+    /malaria_infection_healing_preference_healthcenter(hc)_both_shaman="shaman"
+    /headache_healing_preference_pills_homemade_medicine_none="none"
+    /snake_bit_healing_preference_healthcenter(hc)_herbs_shaman="shaman"
+    /contraceptive_method_acceptace_yes_no="No"
+    /presence_health_staff_during_birth_giving_acceptance_level_high_medium_low="Low"
+    /Patient_vaginal_infection_symptoms_currently="No"
+    /HPV_only_high_risk_both="2only_high_risk"
+    /HPV_only_high_risk_both_no_neg="2only_high_risk"
+    /Helminths="yes"
+    /Single_or_multiple_HPV="2Multiple_types"
+    /Single_or_multiple_HPV_no_neg="2Multiple_types"
+    /Cervical_lesion_cytology_and_biopsy="LGSIL"
+    /cervical_inflammation="not provided"
+    /Cervical_lesion_by_cytology_or_biopsy_yes_no="Yes"
+    /CST_dendrogram_introitus_cervix="CSTIII_iners"
+    /ph_range="4-4.7"
+    /Sample_with_alpha_values="Yes"
+    /ethnic_group="1Piaroa"
+    /ind_urb_group="1Low"
+    /Bacterial_vaginosis_presence_more_than20%of_clue_cells_in_smear="No"
+    /Introitus_HPV_detection_Lipa25="16_74_54"
+    /Oral_HPV_detection_Lipa25="18_70"
+    /Anal_HPV_detection_Lipa25="Neg"
+    /Cervical_fornix_HPV_detection_Lipa25="1pos"
+    /Cervical_fornix_HPV_risk_detection_Lipa_25="2Any_with_high_risk"
+    /Cervical_fornix_HPV_risk_detection_Lipa_25_3cat="Any_with_high_risk"
+    /HPV_types="59"
+    /Days_from_the_biginning_of_the_last_period="not provided"
+    /menstrual_cycle_phase="not provided"
+    /Cervical_citology_B_biopsia_results_="Low_grade_SIL"
+    /HIV="Neg"
+    /VDRL="No_reactive"
+    /Core_hepatitis_B_Antigen="Neg"
+    /surface_antigen_hepatitis_B="Neg"
+    /Hepatitis_C="Neg"
+Description:
+Human vaginal metagenome
+Accession: SAMN10423114	ID: 10423114
+
+187: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN10423073; Sample name: M.666; SRA: SRS4041393
+Organism: Homo sapiens
+Attributes:
+    /isolate="introitus105"
+    /biomaterial provider="SACAICET_Maria_Gloria_Dominguez_Rugerts_University"
+    /TITLE="Vaginal bacterial microbiota and Human Papillomavirus spanning urbanization Amerindians and mestizos"
+    /ANONYMIZED_NAME="M-666"
+    /scientific_name="Human vaginal metagenome"
+    /TAXON_ID="1632839"
+    /sample type="introitus"
+    /elevation="100m"
+    /broad-scale environmental context="Semiurban_biome"
+    /local-scale environmental context="human_associated_habitat"
+    /environmental medium="mucose"
+    /tissue="Human_vaginal_introitus"
+    /LATITUDE="4.806929"
+    /LONGITUDE="-67.594757"
+    /COLLECTION_TIMESTAMP="2015"
+    /dna_extracted="True"
+    /physical_specimen_location="NYU"
+    /physical_specimen_remaining="True"
+    /host subject id="105"
+    /age="34 years"
+    /sex="female"
+    /sampling_location_region="ceguera"
+    /birthday="2015-07-21T00:00:00"
+    /village_of_pacient="cano_grulla_2"
+    /Urbanization_index_according_to_community_urban_level_from_0_to_1_(Vargas-Robles, et al.2018)="0.213514069"
+    /age_range="Adult"
+    /urbanization_level_ame="Low"
+    /BMI_clasification="Normal"
+    /body_temperature_C="36.6"
+    /weight_kg_="41.2"
+    /height_m="1.465"
+    /body mass index="19.2"
+    /blood_pressure_High_mmHg_="110"
+    /blood_pressure_low_mmHg_="70"
+    /hemoglobine_g_dl_="13.4"
+    /Anemia="No"
+    /cholesterol_mg_dl_="281"
+    /glicemia_mg_dl_="100"
+    /last_meal_hours="0.5"
+    /glicemia_status="Normal"
+    /Vision_average_right_and_left_eye_up_to_from0_to_11="4"
+    /skin_lesions_yes_no="No"
+    /flat_feet_yes_no="No"
+    /athleat_feet_yes_no_="No"
+    /back_ache_yes_no_="Yes"
+    /caries_presence_few_moderate_many="Many"
+    /ph_vaginal="4.4"
+    /cervical_biopsy_needed_yes_no_="No"
+    /treatment_prescribed_by_dr_after_sampling_no_or_which="No"
+    /speaks_spanish_level_none_medium_High="None"
+    /cigarette_consumption_history_yes_no_="No"
+    /cigarette_consumption_currently_yes_no_="No"
+    /time_smoking_years="not provided"
+    /number_cigarret_daily="not provided"
+    /yaraque_consumption_yes_no="No"
+    /alcohol_consumption_in_life_yes_no_="No"
+    /alcohol_consumption_currently_yes_no_="not provided"
+    /time_drinking_alcohol_years="not provided"
+    /weekly_alcohol_consumption_years="not provided"
+    /hospitalization_history_yes_no="Yes"
+    /quirurgic_intervention_history_yes_no="Yes"
+    /menarche_age="not provided"
+    /number_pregnancies="12"
+    /number_pregnancies_range="more_than_two"
+    /age_of_first_pregnancy="not provided"
+    /number_of_natural_birth_giving="11"
+    /number_of_C_section="not provided"
+    /number_preterm_births="None"
+    /number_aborts="1"
+    /number_alive_kids="9"
+    /breast_feeding_currently_yes_no="Yes"
+    /presence_of_monthly_period_yes_no="Yes"
+    /menstrual_ciclycling_status_regular_25_35_days_irregular_other_frequency="Regular"
+    /patient_type_of_born_natural_c_section="Natural"
+    /patient_was_breast_feed_as_a_child_yes_no="Yes"
+    /time_patient_was_breast_fed_as_a_child_years="not provided"
+    /cytology_performance_history="No"
+    /time_since_last_cytology_test="Never"
+    /diagnostic_of_last_cytology="Never"
+    /cervical_biopsy_history="No"
+    /age_or_the_first_sexual_contact="not provided"
+    /number_sexual_couple_history="1"
+    /number_sexual_couple_history_range="one"
+    /sexual_contact_history_with_Mestizo_yes_no="No"
+    /number_sexual_partner_last_60_days="one"
+    /last_sexual_contact_days="3"
+    /last_sexual_contact_weeks_numbers="less_1_week"
+    /type_of_sexual_contact_usually_practiced_vaginal_anal_oral="Vaginal"
+    /frequency_of_sexual_contact_weekly="&lt;=1_time"
+    /use_of_contraceptives_history="No"
+    /current_use_of_contraceptives="No"
+    /current_contraceptive_method="None"
+    /current_contraceptive_method_hormonal="No"
+    /brand_contraceptive="not provided"
+    /use_of_contraceptives_years="not provided"
+    /quirurgic_sterilization="No"
+    /medicine_use_history="Yes"
+    /antibiotic_use_history="Yes"
+    /time_of_the_last_antibiotic_consumption_last_year_range="more_than_4 months"
+    /last_antibiotic_name="for_tuberculosis"
+    /antiparasitary_use_history="Yes"
+    /time_of_the_last_antiparatitary_consumption_year_range="more_than_4 months"
+    /menstrual_protection_pads_clothpads_tampons="cloth"
+    /use_of_vaginal_lubricant="No"
+    /use_of_vaginal_douch="No"
+    /frequency_of_vaginal_douch_a_year="not provided"
+    /use_of_common_soap_for_vaginal_hygiene="Yes"
+    /teeth_wash_products="water"
+    /parasite species="Entamoeba coli, Chilomastix mesnilii"
+    /number_sp_intestinal_parasites="2"
+    /intestinal_parasites_presence_yes_no="Yes"
+    /percentage_of_traditional_diet="75"
+    /health_history="influenza_tuberculosis_chickenpox_asma"
+    /observation="1_year_baby_Finished_tuberculosis_treatment_1_year_ago"
+    /Wash_teeth_with_cream_daily_yes_no="no"
+    /shoes_always_to_go_out_never="never"
+    /house_floor_type_concret_soil_concret_1_concret_soil_0_5_soil_0="soil"
+    /treatment_drinking_water_yes_no="no"
+    /source_drink_tap_water_well_rain_or_river="rain_or_river"
+    /contraceptive_use_history_yes_noo_y_yes_no_no="no"
+    /use_medication_frequency_monthly_or_more_frequent_annual_or_biannual_less_than_annual_or_never="less_than_annual_or_never"
+    /hospitalized_ever_yes_no="no"
+    /surgery_ever_yes_no="no"
+    /eat_3_times_a_day_yes_no="yes"
+    /diet_24_traditional_mix_processed="traditional"
+    /diet_7days_traditional_mix_processed="traditional"
+    /finished_elementary_school_yes_no="Yes"
+    /finished_highschool_yes_no="No"
+    /spanish_speaking_level_high_medium_low_or_nothing="No"
+    /spanish_writing_yes_no="No"
+    /piaroa_speaking_yes_no="Yes"
+    /have_identification_document_yes_no="Yes"
+    /have_birth_certificate_yes_no="Yes"
+    /have_their_own_crop_yes_no="Yes"
+    /work_for_mony_last_2_years_yes_no="No"
+    /household_monthly_income_lessthanminsalary_or_none_minsalary_more_thanminsalaries="more_than_one_min_salary"
+    /proportion_of_goods_quanties_radio_tv_DVD_blender_fridge_washingmachine_phone_boiler_car_motorcycle_boatmotor_boat_computer_tvcable_1="0.181818182"
+    /sleep_place_bed_both_hammac="both"
+    /food_interchange_practice_yes_no="Yes"
+    /women_did_piaroa_traditional_rite_in_first_period_yes_similar_no="similar"
+    /patient_keep_piaroa_traditional_rite_of_not_eating_big_animals_yes_similar_no="Yes"
+    /malaria_infection_healing_preference_healthcenter(hc)_both_shaman="both"
+    /headache_healing_preference_pills_homemade_medicine_none="both"
+    /snake_bit_healing_preference_healthcenter(hc)_herbs_shaman="shaman"
+    /contraceptive_method_acceptace_yes_no="Yes"
+    /presence_health_staff_during_birth_giving_acceptance_level_high_medium_low="Low"
+    /Patient_vaginal_infection_symptoms_currently="No"
+    /HPV_only_high_risk_both="4neg"
+    /HPV_only_high_risk_both_no_neg="not provided"
+    /Helminths="Negative"
+    /Single_or_multiple_HPV="3Negative"
+    /Single_or_multiple_HPV_no_neg="not provided"
+    /Cervical_lesion_cytology_and_biopsy="not provided"
+    /cervical_inflammation="Moderate_infl"
+    /Cervical_lesion_by_cytology_or_biopsy_yes_no="No"
+    /CST_dendrogram_introitus_cervix="CSTIII_iners"
+    /ph_range="4-4.7"
+    /Sample_with_alpha_values="Yes"
+    /ethnic_group="1Piaroa"
+    /ind_urb_group="1Low"
+    /Bacterial_vaginosis_presence_more_than20%of_clue_cells_in_smear="No"
+    /Introitus_HPV_detection_Lipa25="not provided"
+    /Oral_HPV_detection_Lipa25="not provided"
+    /Anal_HPV_detection_Lipa25="not provided"
+    /Cervical_fornix_HPV_detection_Lipa25="2neg"
+    /Cervical_fornix_HPV_risk_detection_Lipa_25="1No_high_risk"
+    /Cervical_fornix_HPV_risk_detection_Lipa_25_3cat="Neg"
+    /HPV_types="neg"
+    /Days_from_the_biginning_of_the_last_period="not provided"
+    /menstrual_cycle_phase="not provided"
+    /Cervical_citology_B_biopsia_results_="Moderate_infl"
+    /HIV="Neg"
+    /VDRL="No_reactive"
+    /Core_hepatitis_B_Antigen="Neg"
+    /surface_antigen_hepatitis_B="Neg"
+    /Hepatitis_C="Neg"
+Description:
+Human vaginal metagenome
+Accession: SAMN10423073	ID: 10423073
+
+188: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN10423053; Sample name: M.458; SRA: SRS4041445
+Organism: Homo sapiens
+Attributes:
+    /isolate="introitus92"
+    /biomaterial provider="SACAICET_Maria_Gloria_Dominguez_Rugerts_University"
+    /TITLE="Vaginal bacterial microbiota and Human Papillomavirus spanning urbanization Amerindians and mestizos"
+    /ANONYMIZED_NAME="M-458"
+    /scientific_name="Human vaginal metagenome"
+    /TAXON_ID="1632839"
+    /sample type="introitus"
+    /elevation="100m"
+    /broad-scale environmental context="Semiurban_biome"
+    /local-scale environmental context="human_associated_habitat"
+    /environmental medium="mucose"
+    /tissue="Human_vaginal_introitus"
+    /LATITUDE="5.041778"
+    /LONGITUDE="-67.558139"
+    /COLLECTION_TIMESTAMP="2015"
+    /dna_extracted="True"
+    /physical_specimen_location="NYU"
+    /physical_specimen_remaining="True"
+    /host subject id="92"
+    /age="33 years"
+    /sex="female"
+    /sampling_location_region="raudal_de_danto"
+    /birthday="1982-01-10T00:00:00"
+    /village_of_pacient="cano_piedra"
+    /Urbanization_index_according_to_community_urban_level_from_0_to_1_(Vargas-Robles, et al.2018)="0.240083333"
+    /age_range="Adult"
+    /urbanization_level_ame="Low"
+    /BMI_clasification="Normal"
+    /body_temperature_C="37.3"
+    /weight_kg_="42.7"
+    /height_m="1.42"
+    /body mass index="21.2"
+    /blood_pressure_High_mmHg_="150"
+    /blood_pressure_low_mmHg_="91"
+    /hemoglobine_g_dl_="13.5"
+    /Anemia="No"
+    /cholesterol_mg_dl_="162"
+    /glicemia_mg_dl_="103"
+    /last_meal_hours="4"
+    /glicemia_status="Normal"
+    /Vision_average_right_and_left_eye_up_to_from0_to_11="11"
+    /skin_lesions_yes_no="No"
+    /flat_feet_yes_no="No"
+    /athleat_feet_yes_no_="No"
+    /back_ache_yes_no_="Yes"
+    /caries_presence_few_moderate_many="Many"
+    /ph_vaginal="4"
+    /cervical_biopsy_needed_yes_no_="No"
+    /treatment_prescribed_by_dr_after_sampling_no_or_which="No"
+    /speaks_spanish_level_none_medium_High="None"
+    /cigarette_consumption_history_yes_no_="No"
+    /cigarette_consumption_currently_yes_no_="No"
+    /time_smoking_years="not provided"
+    /number_cigarret_daily="not provided"
+    /yaraque_consumption_yes_no="No"
+    /alcohol_consumption_in_life_yes_no_="No"
+    /alcohol_consumption_currently_yes_no_="not provided"
+    /time_drinking_alcohol_years="not provided"
+    /weekly_alcohol_consumption_years="not provided"
+    /hospitalization_history_yes_no="Yes"
+    /quirurgic_intervention_history_yes_no="Yes"
+    /menarche_age="13"
+    /number_pregnancies="2"
+    /number_pregnancies_range="one_two"
+    /age_of_first_pregnancy="16"
+    /number_of_natural_birth_giving="2"
+    /number_of_C_section="not provided"
+    /number_preterm_births="None"
+    /number_aborts="0"
+    /number_alive_kids="2"
+    /breast_feeding_currently_yes_no="No"
+    /presence_of_monthly_period_yes_no="Yes"
+    /menstrual_ciclycling_status_regular_25_35_days_irregular_other_frequency="Regular"
+    /patient_type_of_born_natural_c_section="Natural"
+    /patient_was_breast_feed_as_a_child_yes_no="Yes"
+    /time_patient_was_breast_fed_as_a_child_years="2"
+    /cytology_performance_history="No"
+    /time_since_last_cytology_test="Never"
+    /diagnostic_of_last_cytology="Never"
+    /cervical_biopsy_history="No"
+    /age_or_the_first_sexual_contact="16"
+    /number_sexual_couple_history="2"
+    /number_sexual_couple_history_range="more_than_one"
+    /sexual_contact_history_with_Mestizo_yes_no="No"
+    /number_sexual_partner_last_60_days="one"
+    /last_sexual_contact_days="7"
+    /last_sexual_contact_weeks_numbers="less_1_week"
+    /type_of_sexual_contact_usually_practiced_vaginal_anal_oral="Vaginal"
+    /frequency_of_sexual_contact_weekly="&lt;=1_time"
+    /use_of_contraceptives_history="No"
+    /current_use_of_contraceptives="No"
+    /current_contraceptive_method="None"
+    /current_contraceptive_method_hormonal="No"
+    /brand_contraceptive="not provided"
+    /use_of_contraceptives_years="not provided"
+    /quirurgic_sterilization="No"
+    /medicine_use_history="Yes"
+    /antibiotic_use_history="Yes"
+    /time_of_the_last_antibiotic_consumption_last_year_range="more_than_4 months"
+    /last_antibiotic_name="amoxicillin"
+    /antiparasitary_use_history="Yes"
+    /time_of_the_last_antiparatitary_consumption_year_range="more_than_4 months"
+    /menstrual_protection_pads_clothpads_tampons="pads"
+    /use_of_vaginal_lubricant="No"
+    /use_of_vaginal_douch="No"
+    /frequency_of_vaginal_douch_a_year="not provided"
+    /use_of_common_soap_for_vaginal_hygiene="Yes"
+    /teeth_wash_products="paste_brush"
+    /parasite species="Entamoeba coli, Endolimax nana, Chilomastix mesnilii, Ascaris lumbricoides, Ancilostomideos"
+    /number_sp_intestinal_parasites="5"
+    /intestinal_parasites_presence_yes_no="Yes"
+    /percentage_of_traditional_diet="85"
+    /health_history="tuberculosis"
+    /observation="tuberculosis_treated_11_years_ago"
+    /Wash_teeth_with_cream_daily_yes_no="no"
+    /shoes_always_to_go_out_never="to_go_out"
+    /house_floor_type_concret_soil_concret_1_concret_soil_0_5_soil_0="soil"
+    /treatment_drinking_water_yes_no="no"
+    /source_drink_tap_water_well_rain_or_river="rain_or_river"
+    /contraceptive_use_history_yes_noo_y_yes_no_no="no"
+    /use_medication_frequency_monthly_or_more_frequent_annual_or_biannual_less_than_annual_or_never="less_than_annual_or_never"
+    /hospitalized_ever_yes_no="yes"
+    /surgery_ever_yes_no="no"
+    /eat_3_times_a_day_yes_no="yes"
+    /diet_24_traditional_mix_processed="traditional"
+    /diet_7days_traditional_mix_processed="traditional"
+    /finished_elementary_school_yes_no="Yes"
+    /finished_highschool_yes_no="No"
+    /spanish_speaking_level_high_medium_low_or_nothing="No"
+    /spanish_writing_yes_no="No"
+    /piaroa_speaking_yes_no="Yes"
+    /have_identification_document_yes_no="Yes"
+    /have_birth_certificate_yes_no="Yes"
+    /have_their_own_crop_yes_no="Yes"
+    /work_for_mony_last_2_years_yes_no="Yes"
+    /household_monthly_income_lessthanminsalary_or_none_minsalary_more_thanminsalaries="less_than_min_salary"
+    /proportion_of_goods_quanties_radio_tv_DVD_blender_fridge_washingmachine_phone_boiler_car_motorcycle_boatmotor_boat_computer_tvcable_1="0.090909091"
+    /sleep_place_bed_both_hammac="hammac"
+    /food_interchange_practice_yes_no="Yes"
+    /women_did_piaroa_traditional_rite_in_first_period_yes_similar_no="similar"
+    /patient_keep_piaroa_traditional_rite_of_not_eating_big_animals_yes_similar_no="Yes"
+    /malaria_infection_healing_preference_healthcenter(hc)_both_shaman="shaman"
+    /headache_healing_preference_pills_homemade_medicine_none="none"
+    /snake_bit_healing_preference_healthcenter(hc)_herbs_shaman="shaman"
+    /contraceptive_method_acceptace_yes_no="No"
+    /presence_health_staff_during_birth_giving_acceptance_level_high_medium_low="Low"
+    /Patient_vaginal_infection_symptoms_currently="No"
+    /HPV_only_high_risk_both="2only_high_risk"
+    /HPV_only_high_risk_both_no_neg="2only_high_risk"
+    /Helminths="yes"
+    /Single_or_multiple_HPV="2Multiple_types"
+    /Single_or_multiple_HPV_no_neg="2Multiple_types"
+    /Cervical_lesion_cytology_and_biopsy="LGSIL"
+    /cervical_inflammation="not provided"
+    /Cervical_lesion_by_cytology_or_biopsy_yes_no="Yes"
+    /CST_dendrogram_introitus_cervix="not provided"
+    /ph_range="4-4.7"
+    /Sample_with_alpha_values="Yes"
+    /ethnic_group="1Piaroa"
+    /ind_urb_group="1Low"
+    /Bacterial_vaginosis_presence_more_than20%of_clue_cells_in_smear="No"
+    /Introitus_HPV_detection_Lipa25="16_74_54"
+    /Oral_HPV_detection_Lipa25="18_70"
+    /Anal_HPV_detection_Lipa25="Neg"
+    /Cervical_fornix_HPV_detection_Lipa25="1pos"
+    /Cervical_fornix_HPV_risk_detection_Lipa_25="2Any_with_high_risk"
+    /Cervical_fornix_HPV_risk_detection_Lipa_25_3cat="Any_with_high_risk"
+    /HPV_types="59"
+    /Days_from_the_biginning_of_the_last_period="not provided"
+    /menstrual_cycle_phase="not provided"
+    /Cervical_citology_B_biopsia_results_="Low_grade_SIL"
+    /HIV="Neg"
+    /VDRL="No_reactive"
+    /Core_hepatitis_B_Antigen="Neg"
+    /surface_antigen_hepatitis_B="Neg"
+    /Hepatitis_C="Neg"
+Description:
+Human vaginal metagenome
+Accession: SAMN10423053	ID: 10423053
+
+189: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN10175324; Sample name: IL23R-2; SRA: SRS3876002
+Organism: Homo sapiens
+Attributes:
+    /isolate="Patient with mycobacterial disease"
+    /age="12"
+    /biomaterial provider="Dr. Seyed Alireza Mahdaviani. Pediatric Respiratory Diseases Research Center, National Research Institute of Tuberculosis and Lung Diseases (NRITLD), Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+    /sex="male"
+    /tissue="blood"
+Accession: SAMN10175324	ID: 10175324
+
+190: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN10175323; Sample name: IL23R-1; SRA: SRS3875998
+Organism: Homo sapiens
+Attributes:
+    /isolate="Patient with mycobacterial disease"
+    /age="24"
+    /biomaterial provider="Dr. Seyed Alireza Mahdaviani. Pediatric Respiratory Diseases Research Center, National Research Institute of Tuberculosis and Lung Diseases (NRITLD), Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+    /sex="female"
+    /tissue="blood"
+Accession: SAMN10175323	ID: 10175323
+
+191: Sputum sample from pulmonary tuberculosis patients
+Identifiers: BioSample: SAMN05710163; Sample name: Human sputum sample NS001; SRA: SRS1674932
+Organism: Homo sapiens
+Attributes:
+    /isolate="TB negative"
+    /age="NA"
+    /biomaterial provider="P.S. Bisen"
+    /sex="male"
+    /tissue="Sputum"
+Accession: SAMN05710163	ID: 5710163
+
+192: Human TRAV1-2 repertoire C58 CD4+
+Identifiers: BioSample: SAMN02941936; Sample name: Human TRAV1-2 repertoire C58 CD4+; SRA: SRS667923
+Organism: Homo sapiens
+Attributes:
+    /isolate="C58"
+    /age="56"
+    /biomaterial provider="Local hospital"
+    /sex="male"
+    /tissue="blood"
+    /disease="tuberculosis"
+    /disease stage="latent"
+Description:
+Human TRAV1-2 repertoire C58 CD4+
+Accession: SAMN02941936	ID: 2941936
+
+193: Human TRAV1-2 repertoire C58 CD4-
+Identifiers: BioSample: SAMN02941934; Sample name: Human TRAV1-2 repertoire C58 CD4-; SRA: SRS667921
+Organism: Homo sapiens
+Attributes:
+    /isolate="C58"
+    /age="56"
+    /biomaterial provider="Local hospital"
+    /sex="male"
+    /tissue="blood"
+    /disease="tuberculosis"
+    /disease stage="latent"
+Description:
+Human TRAV1-2 repertoire C58 CD4-
+Accession: SAMN02941934	ID: 2941934
+
+194: Human TRAV1-2 repertoire C52 CD4+
+Identifiers: BioSample: SAMN02941933; Sample name: Human TRAV1-2 repertoire C52 CD4+; SRA: SRS667919
+Organism: Homo sapiens
+Attributes:
+    /isolate="C52"
+    /age="35"
+    /biomaterial provider="Local hospital"
+    /sex="female"
+    /tissue="blood"
+    /disease="tuberculosis"
+    /disease stage="latent"
+Description:
+Human TRAV1-2 repertoire C52 CD4+
+Accession: SAMN02941933	ID: 2941933
+
+195: Human TRAV1-2 repertoire C52 CD4-
+Identifiers: BioSample: SAMN02941932; Sample name: Human TRAV1-2 repertoire C52 CD4-; SRA: SRS667917
+Organism: Homo sapiens
+Attributes:
+    /isolate="C52"
+    /age="35"
+    /biomaterial provider="Local hospital"
+    /sex="female"
+    /tissue="blood"
+    /disease="tuberculosis"
+    /disease stage="latent"
+Description:
+Human TRAV1-2 repertoire C52 CD4-
+Accession: SAMN02941932	ID: 2941932
+
+196: Human TRAV1-2 repertoire C34 CD4+
+Identifiers: BioSample: SAMN02941931; Sample name: Human TRAV1-2 repertoire C34 CD4+; SRA: SRS667914
+Organism: Homo sapiens
+Attributes:
+    /isolate="C34"
+    /age="33"
+    /biomaterial provider="Local hospital"
+    /sex="female"
+    /tissue="blood"
+    /disease="tuberculosis"
+    /disease stage="latent"
+Description:
+Human TRAV1-2 repertoire C34 CD4+
+Accession: SAMN02941931	ID: 2941931
+
+197: Human TRAV1-2 repertoire C34 CD4-
+Identifiers: BioSample: SAMN02941930; Sample name: Human TRAV1-2 repertoire C34 CD4-; SRA: SRS667916
+Organism: Homo sapiens
+Attributes:
+    /isolate="C34"
+    /age="33"
+    /biomaterial provider="Local hospital"
+    /sex="female"
+    /tissue="blood"
+    /disease="tuberculosis"
+    /disease stage="latent"
+Description:
+Human TRAV1-2 repertoire C34 CD4-
+Accession: SAMN02941930	ID: 2941930
+
+198: Human TRAV1-2 repertoire C28 CD4+
+Identifiers: BioSample: SAMN02941929; Sample name: Human TRAV1-2 repertoire C28 CD4+; SRA: SRS667913
+Organism: Homo sapiens
+Attributes:
+    /isolate="C28"
+    /age="44"
+    /biomaterial provider="Local hospital"
+    /sex="male"
+    /tissue="blood"
+    /disease="tuberculosis"
+    /disease stage="latent"
+Description:
+Human TRAV1-2 repertoire C28 CD4+
+Accession: SAMN02941929	ID: 2941929
+
+199: Human TRAV1-2 repertoire C28 CD4-
+Identifiers: BioSample: SAMN02941928; Sample name: Human TRAV1-2 repertoire C28 CD4-; SRA: SRS667912
+Organism: Homo sapiens
+Attributes:
+    /isolate="C28"
+    /age="44"
+    /biomaterial provider="Local hospital"
+    /sex="male"
+    /tissue="blood"
+    /disease="tuberculosis"
+    /disease stage="latent"
+Description:
+Human TRAV1-2 repertoire C28 CD4-
+Accession: SAMN02941928	ID: 2941928
+
+200: Nu7441
+Identifiers: BioSample: SAMN25049372; Sample name: Nu7441
+Organism: Homo sapiens
+Attributes:
+    /isolate="NCI-H1688"
+    /age="50"
+    /biomaterial provider="ATCC"
+    /sex="male"
+    /tissue="lung"
+Accession: SAMN25049372	ID: 25049372
+
+
+201: Control
+Identifiers: BioSample: SAMN25049371; Sample name: Control
+Organism: Homo sapiens
+Attributes:
+    /isolate="NCI-H1688"
+    /age="50"
+    /biomaterial provider="ATCC"
+    /sex="male"
+    /tissue="lung"
+Accession: SAMN25049371	ID: 25049371
+
+202: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN18174254; Sample name: mNC73
+Organism: Homo sapiens
+Attributes:
+    /isolate="NC73"
+    /age="n/a"
+    /biomaterial provider="Gu Lab / Chiu Lab"
+    /sex="not collected"
+    /tissue="FNA"
+    /disease="NGS Results: Mycobacterium tuberculosis complex: 11.2 RPM. Pathogen Confirmation: Mycobacterium tuberculosis"
+    /sample type="liquid tissue sample"
+Description:
+NGS Results: Mycobacterium tuberculosis complex: 11.2 RPM.  Pathogen Confirmation: Mycobacterium tuberculosis
+Accession: SAMN18174254	ID: 18174254
+
+203: SNP from human tuberculosis patient
+Identifiers: BioSample: SAMN07486987; Sample name: SNP_tuberculosis
+Organism: Homo sapiens
+Attributes:
+    /isolate="PBMC"
+    /age="na"
+    /biomaterial provider="Shabaana Khader"
+    /sex="not applicable"
+    /tissue="na"
+Accession: SAMN07486987	ID: 7486987
+
+204: Human sample from Homo sapiens
+Identifiers: BioSample: SAMN05219287; Sample name: Pulmonary epithelial cells infected by genetically diverse M. tuberculosis strains
+Organism: Homo sapiens
+Attributes:
+    /isolate="ATCC CCL 185"
+    /age="48 hr"
+    /biomaterial provider="Prof. M. Pillay"
+    /sex="not applicable"
+    /tissue="Lung tissue"
+    /cell line="Pulmonary alveolar epithelial cells"
+Description:
+Pulmonary alveolar epithelial cells ATCC CCL 185
+Accession: SAMN05219287	ID: 5219287
+
+
