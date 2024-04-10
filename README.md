@@ -9,6 +9,14 @@ Metadata play a crucial role in ensuring the findability, accessibility, interop
 <img width="880" alt="image" src="https://github.com/musen-lab/BioSampleGPTCorrection/assets/9361849/e09227d1-8faa-48c0-a00a-4630c82c8bfc">
 
 # Citation
+The paper is available [here](https://arxiv.org/abs/2404.05893). Please consider using hte following BibTex for citation.
 ```
-Cite with arxiv link
+@misc{sundaram2024use,
+      title={Use of a Structured Knowledge Base Enhances Metadata Curation by Large Language Models}, 
+      author={Sowmya S. Sundaram and Benjamin Solomon and Avani Khatri and Anisha Laumas and Purvesh Khatri and Mark A. Musen},
+      year={2024},
+      eprint={2404.05893},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
 ```
